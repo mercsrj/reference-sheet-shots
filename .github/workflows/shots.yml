@@ -1,0 +1,51 @@
+name: Screenshots
+
+# Runs whenever a new queue file is pushed (the daily curator pushes queue/<date>.json),
+# or manually from the Actions tab.
+on:
+  push:
+    paths:
+      - "queue/*.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: screenshots
+  cancel-in-progress: false
+
+jobs:
+  shoot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Take screenshots for every queue file without results yet
+        run: |
+          for f in queue/*.json; do
+            [ -e "$f" ] || continue
+            d=$(basename "$f" .json)
+            if [ ! -f "shots/$d/manifest.json" ]; then
+              node scripts/shoot.mjs "$f"
+            fi
+          done
+
+      - name: Commit results
+        run: |
+          git config user.name "reference-sheet-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add shots
+          git diff --cached --quiet && exit 0
+          git commit -m "Screenshots $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done

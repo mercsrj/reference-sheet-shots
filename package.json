@@ -1,0 +1,10 @@
+{
+  "name": "reference-sheet-shots",
+  "private": true,
+  "type": "module",
+  "description": "Takes daily website screenshots for the Reference Sheet gallery.",
+  "dependencies": {
+    "playwright": "1.47.2",
+    "sharp": "0.33.5"
+  }
+}
