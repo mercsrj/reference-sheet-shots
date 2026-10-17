@@ -14,6 +14,7 @@ const HIDE_OVERLAYS = `
   [id*="gdpr" i],[class*="gdpr" i],#usercentrics-root,.osano-cm-window,#hs-eu-cookie-confirmation
   { display:none !important; visibility:hidden !important; }
   html,body{ overflow: auto !important; }
+  iframe[src*="vimeo.com"],iframe[src*="youtube.com"],iframe[src*="youtube-nocookie.com"]{ visibility:hidden !important; }
 `;
 
 const queueFile = process.argv[2];
@@ -22,7 +23,9 @@ const date = queue.date || path.basename(queueFile, ".json");
 const outDir = path.join("shots", date);
 await fs.mkdir(outDir, { recursive: true });
 
-const browser = await chromium.launch();
+const browser = await chromium.launch({
+  args: ["--ignore-gpu-blocklist", "--enable-webgl", "--use-angle=swiftshader", "--enable-unsafe-swiftshader", "--autoplay-policy=no-user-gesture-required"],
+});
 const results = [];
 
 for (const item of queue.items || []) {
@@ -39,7 +42,7 @@ for (const item of queue.items || []) {
     await page.goto(item.url, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForLoadState("networkidle", { timeout: 20000 }).catch(() => {});
     await page.addStyleTag({ content: HIDE_OVERLAYS }).catch(() => {});
-    await page.waitForTimeout(4500); // let intro loaders finish
+    await page.waitForTimeout(8000); // let intro loaders and 3D scenes finish
 
     // Hero (first screen)
     const heroPath = path.join(outDir, `${item.id}-hero.jpg`);
@@ -53,7 +56,7 @@ for (const item of queue.items || []) {
     if (scrollH > H * 1.3) {
       for (let y = 0; y < Math.min(scrollH, MAX_FULL); y += 700) {
         await page.evaluate((yy) => window.scrollTo(0, yy), y);
-        await page.waitForTimeout(250);
+        await page.waitForTimeout(400);
       }
       await page.evaluate(() => window.scrollTo(0, 0));
       await page.waitForTimeout(1200);
@@ -67,7 +70,7 @@ for (const item of queue.items || []) {
       for (let i = 0; i < 12; i++) {
         await page.mouse.move(W / 2, H / 2);
         await page.mouse.wheel(0, H - 120);
-        await page.waitForTimeout(900);
+        await page.waitForTimeout(1300);
         const f = await page.screenshot({ type: "png" });
         const sig = f.toString("base64").slice(-2000);
         if (sig === last) break;
