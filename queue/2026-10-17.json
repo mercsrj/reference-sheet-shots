@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "41west-com",
+      "url": "https://www.41west.com/"
+    },
+    {
+      "id": "lpas-com",
+      "url": "https://lpas.com/"
+    },
+    {
+      "id": "r-o-com",
+      "url": "https://r-o.com"
+    },
+    {
+      "id": "mrcresidencesbocaraton-com",
+      "url": "https://mrcresidencesbocaraton.com"
+    },
+    {
+      "id": "odysseeclinic-com-au",
+      "url": "https://www.odysseeclinic.com.au/"
+    },
+    {
+      "id": "twks-ch",
+      "url": "https://twks.ch/en"
+    },
+    {
+      "id": "belgradearbor-rs",
+      "url": "https://belgradearbor.rs/en"
+    },
+    {
+      "id": "drone-riotters-com",
+      "url": "https://drone.riotters.com/"
+    }
+  ]
+}
