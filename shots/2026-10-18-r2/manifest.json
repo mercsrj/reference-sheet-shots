@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-18-r2",
+  "items": [
+    {
+      "id": "quintadamalia-com",
+      "url": "https://www.quintadamalia.com/",
+      "hero": "shots/2026-10-18-r2/quintadamalia-com-hero.jpg",
+      "full": "shots/2026-10-18-r2/quintadamalia-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "realevate-agency",
+      "url": "https://realevate.agency/",
+      "hero": "shots/2026-10-18-r2/realevate-agency-hero.jpg",
+      "full": "shots/2026-10-18-r2/realevate-agency-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
