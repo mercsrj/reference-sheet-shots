@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "halflantspichette-com",
+      "url": "https://halflantspichette.com/",
+      "hero": "shots/2026-10-18/halflantspichette-com-hero.jpg",
+      "full": "shots/2026-10-18/halflantspichette-com-full.jpg",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "thirdway-com",
+      "url": "https://thirdway.com",
+      "hero": "shots/2026-10-18/thirdway-com-hero.jpg",
+      "full": "shots/2026-10-18/thirdway-com-full.jpg",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "wild-ag-ch",
+      "url": "https://wild-ag.ch/",
+      "hero": "shots/2026-10-18/wild-ag-ch-hero.jpg",
+      "full": "shots/2026-10-18/wild-ag-ch-full.jpg",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "renegonzalezarchitects-com",
+      "url": "https://renegonzalezarchitects.com/",
+      "hero": "shots/2026-10-18/renegonzalezarchitects-com-hero.jpg",
+      "full": "shots/2026-10-18/renegonzalezarchitects-com-full.jpg",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "grids03-obys-agency",
+      "url": "https://grids03.obys.agency/",
+      "hero": "shots/2026-10-18/grids03-obys-agency-hero.jpg",
+      "full": "shots/2026-10-18/grids03-obys-agency-full.jpg",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "overworldaudio-com",
+      "url": "https://overworldaudio.com/",
+      "hero": "shots/2026-10-18/overworldaudio-com-hero.jpg",
+      "full": "shots/2026-10-18/overworldaudio-com-full.jpg",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "sobha-privy-collection-com",
+      "url": "https://sobha-privy-collection.com/",
+      "hero": "shots/2026-10-18/sobha-privy-collection-com-hero.jpg",
+      "full": "shots/2026-10-18/sobha-privy-collection-com-full.jpg",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "neutomni-com",
+      "url": "https://neutomni.com/",
+      "hero": "shots/2026-10-18/neutomni-com-hero.jpg",
+      "full": "shots/2026-10-18/neutomni-com-full.jpg",
+      "ok": true,
+      "error": null
+    }
+  ]
+}
