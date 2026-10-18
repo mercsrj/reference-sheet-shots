@@ -44,9 +44,22 @@ for (const item of queue.items || []) {
     await page.addStyleTag({ content: HIDE_OVERLAYS }).catch(() => {});
     await page.waitForTimeout(8000); // let intro loaders and 3D scenes finish
 
-    // Hero (first screen)
+    // Hero (first screen). If it comes out blank (slow loader, late hydration), wait and retake.
     const heroPath = path.join(outDir, `${item.id}-hero.jpg`);
-    const heroPng = await page.screenshot({ type: "png" });
+    const spread = async (buf) => { const st = await sharp(buf).stats(); return st.channels.slice(0, 3).reduce((a, c) => a + c.stdev, 0) / 3; };
+    let heroPng = await page.screenshot({ type: "png" });
+    for (let attempt = 0; attempt < 3 && (await spread(heroPng)) < 6; attempt++) {
+      await page.mouse.move(W / 2, H / 2).catch(() => {});
+      await page.mouse.wheel(0, 300).catch(() => {});
+      await page.waitForTimeout(1500);
+      await page.mouse.wheel(0, -300).catch(() => {});
+      if (attempt === 1) await page.reload({ waitUntil: "load", timeout: 60000 }).catch(() => {});
+      await page.waitForTimeout(8000);
+      await page.addStyleTag({ content: HIDE_OVERLAYS }).catch(() => {});
+      heroPng = await page.screenshot({ type: "png" });
+      r.heroRetries = attempt + 1;
+    }
+    r.heroBlank = (await spread(heroPng)) < 6;
     await sharp(heroPng).jpeg({ quality: 82, mozjpeg: true }).toFile(heroPath);
     r.hero = heroPath;
 
