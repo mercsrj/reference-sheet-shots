@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "oppenoffice-com",
+      "url": "https://www.oppenoffice.com",
+      "hero": "shots/2026-10-19/oppenoffice-com-hero.jpg",
+      "full": "shots/2026-10-19/oppenoffice-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "tarqstudio-com",
+      "url": "https://www.tarqstudio.com",
+      "hero": "shots/2026-10-19/tarqstudio-com-hero.jpg",
+      "full": "shots/2026-10-19/tarqstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "santalarch-com",
+      "url": "https://santalarch.com",
+      "hero": "shots/2026-10-19/santalarch-com-hero.jpg",
+      "full": null,
+      "ok": false,
+      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n",
+      "heroBlank": false
+    },
+    {
+      "id": "structureengineering-com-au",
+      "url": "https://structureengineering.com.au/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://structureengineering.com.au/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "signal-a-studio",
+      "url": "https://signal-a.studio",
+      "hero": "shots/2026-10-19/signal-a-studio-hero.jpg",
+      "full": "shots/2026-10-19/signal-a-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "coloniazacamil-com",
+      "url": "https://coloniazacamil.com/",
+      "hero": "shots/2026-10-19/coloniazacamil-com-hero.jpg",
+      "full": "shots/2026-10-19/coloniazacamil-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "tengilemalamala-com",
+      "url": "https://tengilemalamala.com/",
+      "hero": "shots/2026-10-19/tengilemalamala-com-hero.jpg",
+      "full": "shots/2026-10-19/tengilemalamala-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "offforum-com",
+      "url": "https://www.offforum.com/",
+      "hero": "shots/2026-10-19/offforum-com-hero.jpg",
+      "full": "shots/2026-10-19/offforum-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
