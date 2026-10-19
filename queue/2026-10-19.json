@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "oppenoffice-com",
+      "url": "https://www.oppenoffice.com"
+    },
+    {
+      "id": "tarqstudio-com",
+      "url": "https://www.tarqstudio.com"
+    },
+    {
+      "id": "santalarch-com",
+      "url": "https://santalarch.com"
+    },
+    {
+      "id": "structureengineering-com-au",
+      "url": "https://structureengineering.com.au/"
+    },
+    {
+      "id": "signal-a-studio",
+      "url": "https://signal-a.studio"
+    },
+    {
+      "id": "coloniazacamil-com",
+      "url": "https://coloniazacamil.com/"
+    },
+    {
+      "id": "tengilemalamala-com",
+      "url": "https://tengilemalamala.com/"
+    },
+    {
+      "id": "offforum-com",
+      "url": "https://www.offforum.com/"
+    }
+  ]
+}
