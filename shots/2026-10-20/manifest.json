@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-20",
+  "items": [
+    {
+      "id": "storeyarchitecture-co-uk",
+      "url": "https://www.storeyarchitecture.co.uk/",
+      "hero": "shots/2026-10-20/storeyarchitecture-co-uk-hero.jpg",
+      "full": "shots/2026-10-20/storeyarchitecture-co-uk-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "builtenvirons-com-au",
+      "url": "https://builtenvirons.com.au/",
+      "hero": "shots/2026-10-20/builtenvirons-com-au-hero.jpg",
+      "full": "shots/2026-10-20/builtenvirons-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "brillhartarchitecture-com",
+      "url": "https://brillhartarchitecture.com/",
+      "hero": "shots/2026-10-20/brillhartarchitecture-com-hero.jpg",
+      "full": "shots/2026-10-20/brillhartarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "sweetsparkman-com",
+      "url": "https://sweetsparkman.com/",
+      "hero": "shots/2026-10-20/sweetsparkman-com-hero.jpg",
+      "full": "shots/2026-10-20/sweetsparkman-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "illoca-unseen-co",
+      "url": "https://illoca.unseen.co/",
+      "hero": "shots/2026-10-20/illoca-unseen-co-hero.jpg",
+      "full": "shots/2026-10-20/illoca-unseen-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "edolus-com",
+      "url": "https://edolus.com/",
+      "hero": "shots/2026-10-20/edolus-com-hero.jpg",
+      "full": "shots/2026-10-20/edolus-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "sobha-privy-collection-com",
+      "url": "https://sobha-privy-collection.com/",
+      "hero": "shots/2026-10-20/sobha-privy-collection-com-hero.jpg",
+      "full": "shots/2026-10-20/sobha-privy-collection-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    }
+  ]
+}
