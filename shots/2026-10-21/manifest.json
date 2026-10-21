@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-21",
+  "items": [
+    {
+      "id": "aat-architecten-be",
+      "url": "https://www.aat-architecten.be/",
+      "hero": "shots/2026-10-21/aat-architecten-be-hero.jpg",
+      "full": "shots/2026-10-21/aat-architecten-be-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "montarville-ca",
+      "url": "https://montarville.ca/",
+      "hero": "shots/2026-10-21/montarville-ca-hero.jpg",
+      "full": "shots/2026-10-21/montarville-ca-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "seibertarchitects-com",
+      "url": "https://www.seibertarchitects.com/",
+      "hero": "shots/2026-10-21/seibertarchitects-com-hero.jpg",
+      "full": "shots/2026-10-21/seibertarchitects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "bcbhomes-com",
+      "url": "https://www.bcbhomes.com/",
+      "hero": "shots/2026-10-21/bcbhomes-com-hero.jpg",
+      "full": "shots/2026-10-21/bcbhomes-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "heronaiapp-com",
+      "url": "https://heronaiapp.com/",
+      "hero": "shots/2026-10-21/heronaiapp-com-hero.jpg",
+      "full": "shots/2026-10-21/heronaiapp-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "palaraiffeisen-ch",
+      "url": "https://www.palaraiffeisen.ch",
+      "hero": "shots/2026-10-21/palaraiffeisen-ch-hero.jpg",
+      "full": null,
+      "ok": false,
+      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n",
+      "heroBlank": false
+    },
+    {
+      "id": "format-obys-agency",
+      "url": "https://format.obys.agency/",
+      "hero": "shots/2026-10-21/format-obys-agency-hero.jpg",
+      "full": "shots/2026-10-21/format-obys-agency-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "undplus-com",
+      "url": "https://www.undplus.com",
+      "hero": "shots/2026-10-21/undplus-com-hero.jpg",
+      "full": "shots/2026-10-21/undplus-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
