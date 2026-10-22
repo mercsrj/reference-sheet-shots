@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-20-0704",
+  "items": [
+    {
+      "id": "horizontevillage-com",
+      "url": "https://horizontevillage.com/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://horizontevillage.com/\nCall log:\n  - navigating to \"https://horizontevillage.com/\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
+}
