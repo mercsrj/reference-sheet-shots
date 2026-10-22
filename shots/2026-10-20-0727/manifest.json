@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-20-0727",
+  "items": [
+    {
+      "id": "era-residence-com",
+      "url": "https://www.era-residence.com/",
+      "hero": "shots/2026-10-20-0727/era-residence-com-hero.jpg",
+      "full": "shots/2026-10-20-0727/era-residence-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
