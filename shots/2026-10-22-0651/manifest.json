@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22-0651",
+  "items": [
+    {
+      "id": "strang-design",
+      "url": "https://strang.design/",
+      "hero": "shots/2026-10-22-0651/strang-design-hero.jpg",
+      "full": "shots/2026-10-22-0651/strang-design-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "reedhilderbrand-com",
+      "url": "https://www.reedhilderbrand.com/",
+      "hero": "shots/2026-10-22-0651/reedhilderbrand-com-hero.jpg",
+      "full": "shots/2026-10-22-0651/reedhilderbrand-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "m3-pg-de",
+      "url": "https://m3-pg.de",
+      "hero": "shots/2026-10-22-0651/m3-pg-de-hero.jpg",
+      "full": "shots/2026-10-22-0651/m3-pg-de-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "randolphscottbell-com",
+      "url": "https://randolphscottbell.com/",
+      "hero": "shots/2026-10-22-0651/randolphscottbell-com-hero.jpg",
+      "full": "shots/2026-10-22-0651/randolphscottbell-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ascension-pegassi-be",
+      "url": "https://ascension.pegassi.be/",
+      "hero": "shots/2026-10-22-0651/ascension-pegassi-be-hero.jpg",
+      "full": "shots/2026-10-22-0651/ascension-pegassi-be-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "xavierjoliot-com",
+      "url": "https://xavierjoliot.com",
+      "hero": "shots/2026-10-22-0651/xavierjoliot-com-hero.jpg",
+      "full": "shots/2026-10-22-0651/xavierjoliot-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "3moons-it",
+      "url": "https://www.3moons.it",
+      "hero": "shots/2026-10-22-0651/3moons-it-hero.jpg",
+      "full": "shots/2026-10-22-0651/3moons-it-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "bedfordsquarebk-com",
+      "url": "https://bedfordsquarebk.com/",
+      "hero": "shots/2026-10-22-0651/bedfordsquarebk-com-hero.jpg",
+      "full": "shots/2026-10-22-0651/bedfordsquarebk-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}

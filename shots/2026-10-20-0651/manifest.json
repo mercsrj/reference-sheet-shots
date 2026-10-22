@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-20-0651",
+  "items": [
+    {
+      "id": "sobha-privy-collection-com",
+      "url": "https://sobha-privy-collection.com/",
+      "hero": "shots/2026-10-20-0651/sobha-privy-collection-com-hero.jpg",
+      "full": "shots/2026-10-20-0651/sobha-privy-collection-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    }
+  ]
+}
