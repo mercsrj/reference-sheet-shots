@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-20-0706",
+  "items": [
+    {
+      "id": "iqhq-com",
+      "url": "https://iqhq.com/",
+      "hero": "shots/2026-10-20-0706/iqhq-com-hero.jpg",
+      "full": "shots/2026-10-20-0706/iqhq-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
