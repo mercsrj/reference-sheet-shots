@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-23-0621",
+  "items": [
+    {
+      "id": "taylorhare-com",
+      "url": "https://taylorhare.com/",
+      "hero": "shots/2026-10-23-0621/taylorhare-com-hero.jpg",
+      "full": "shots/2026-10-23-0621/taylorhare-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 1,
+      "heroBlank": false
+    },
+    {
+      "id": "londonbay-com",
+      "url": "https://www.londonbay.com/",
+      "hero": "shots/2026-10-23-0621/londonbay-com-hero.jpg",
+      "full": "shots/2026-10-23-0621/londonbay-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    },
+    {
+      "id": "lenvalproperties-com",
+      "url": "https://lenvalproperties.com/",
+      "hero": "shots/2026-10-23-0621/lenvalproperties-com-hero.jpg",
+      "full": "shots/2026-10-23-0621/lenvalproperties-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "kzarchitecture-com",
+      "url": "https://www.kzarchitecture.com/",
+      "hero": "shots/2026-10-23-0621/kzarchitecture-com-hero.jpg",
+      "full": "shots/2026-10-23-0621/kzarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "foxvaluations-com-au",
+      "url": "https://foxvaluations.com.au/",
+      "hero": "shots/2026-10-23-0621/foxvaluations-com-au-hero.jpg",
+      "full": "shots/2026-10-23-0621/foxvaluations-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "emotion-agency-com",
+      "url": "https://emotion-agency.com/",
+      "hero": "shots/2026-10-23-0621/emotion-agency-com-hero.jpg",
+      "full": "shots/2026-10-23-0621/emotion-agency-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "leadoff-fr",
+      "url": "https://www.leadoff.fr",
+      "hero": "shots/2026-10-23-0621/leadoff-fr-hero.jpg",
+      "full": "shots/2026-10-23-0621/leadoff-fr-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "rialto-com-au",
+      "url": "https://rialto.com.au/",
+      "hero": "shots/2026-10-23-0621/rialto-com-au-hero.jpg",
+      "full": "shots/2026-10-23-0621/rialto-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
