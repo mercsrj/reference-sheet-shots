@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-23-0640",
+  "items": [
+    {
+      "id": "esrbespoke-au",
+      "url": "https://www.esrbespoke.au/",
+      "hero": "shots/2026-10-23-0640/esrbespoke-au-hero.jpg",
+      "full": "shots/2026-10-23-0640/esrbespoke-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mariavasilyeva-com",
+      "url": "https://www.mariavasilyeva.com/",
+      "hero": "shots/2026-10-23-0640/mariavasilyeva-com-hero.jpg",
+      "full": "shots/2026-10-23-0640/mariavasilyeva-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
