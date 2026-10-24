@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-24-0620",
+  "items": [
+    {
+      "id": "nabilissa-com",
+      "url": "https://nabilissa.com",
+      "hero": "shots/2026-10-24-0620/nabilissa-com-hero.jpg",
+      "full": "shots/2026-10-24-0620/nabilissa-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ecolinearstudio-com",
+      "url": "https://ecolinearstudio.com/",
+      "hero": "shots/2026-10-24-0620/ecolinearstudio-com-hero.jpg",
+      "full": "shots/2026-10-24-0620/ecolinearstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "studio-foundry-sujen-co",
+      "url": "https://studio-foundry.sujen.co/",
+      "hero": "shots/2026-10-24-0620/studio-foundry-sujen-co-hero.jpg",
+      "full": "shots/2026-10-24-0620/studio-foundry-sujen-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "250broadway-com",
+      "url": "https://www.250broadway.com",
+      "hero": "shots/2026-10-24-0620/250broadway-com-hero.jpg",
+      "full": "shots/2026-10-24-0620/250broadway-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "tillbergdesign-com",
+      "url": "https://www.tillbergdesign.com/",
+      "hero": "shots/2026-10-24-0620/tillbergdesign-com-hero.jpg",
+      "full": "shots/2026-10-24-0620/tillbergdesign-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mosbyfiles-com",
+      "url": "https://www.mosbyfiles.com/",
+      "hero": "shots/2026-10-24-0620/mosbyfiles-com-hero.jpg",
+      "full": "shots/2026-10-24-0620/mosbyfiles-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "tandjungsarihotel-com",
+      "url": "https://www.tandjungsarihotel.com/",
+      "hero": "shots/2026-10-24-0620/tandjungsarihotel-com-hero.jpg",
+      "full": "shots/2026-10-24-0620/tandjungsarihotel-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "nickho-motorsports-nl",
+      "url": "https://nickho-motorsports.nl/",
+      "hero": "shots/2026-10-24-0620/nickho-motorsports-nl-hero.jpg",
+      "full": "shots/2026-10-24-0620/nickho-motorsports-nl-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
