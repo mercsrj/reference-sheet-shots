@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-25-0627",
+  "items": [
+    {
+      "id": "sdhstudio-com",
+      "url": "https://sdhstudio.com/",
+      "hero": "shots/2026-10-25-0627/sdhstudio-com-hero.jpg",
+      "full": "shots/2026-10-25-0627/sdhstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
