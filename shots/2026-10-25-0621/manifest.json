@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-25-0621",
+  "items": [
+    {
+      "id": "touzetstudio-com",
+      "url": "https://www.touzetstudio.com/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.touzetstudio.com/\nCall log:\n  - navigating to \"https://www.touzetstudio.com/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "residences-loamhouse-com-au",
+      "url": "https://residences.loamhouse.com.au",
+      "hero": "shots/2026-10-25-0621/residences-loamhouse-com-au-hero.jpg",
+      "full": "shots/2026-10-25-0621/residences-loamhouse-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "concretemanagement-ch",
+      "url": "https://www.concretemanagement.ch/fr",
+      "hero": "shots/2026-10-25-0621/concretemanagement-ch-hero.jpg",
+      "full": "shots/2026-10-25-0621/concretemanagement-ch-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mejuma-tuscany-com",
+      "url": "https://mejuma-tuscany.com/",
+      "hero": "shots/2026-10-25-0621/mejuma-tuscany-com-hero.jpg",
+      "full": "shots/2026-10-25-0621/mejuma-tuscany-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "wearetheromans-com",
+      "url": "https://www.wearetheromans.com/",
+      "hero": "shots/2026-10-25-0621/wearetheromans-com-hero.jpg",
+      "full": "shots/2026-10-25-0621/wearetheromans-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "milledollars-fr",
+      "url": "https://milledollars.fr/",
+      "hero": "shots/2026-10-25-0621/milledollars-fr-hero.jpg",
+      "full": "shots/2026-10-25-0621/milledollars-fr-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "brandonyasin-com",
+      "url": "https://brandonyasin.com",
+      "hero": "shots/2026-10-25-0621/brandonyasin-com-hero.jpg",
+      "full": "shots/2026-10-25-0621/brandonyasin-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "h2a-lu",
+      "url": "https://www.h2a.lu/",
+      "hero": "shots/2026-10-25-0621/h2a-lu-hero.jpg",
+      "full": "shots/2026-10-25-0621/h2a-lu-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
