@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-26-0659",
+  "items": [
+    {
+      "id": "k95-it",
+      "url": "https://k95.it/en",
+      "hero": "shots/2026-10-26-0659/k95-it-hero.jpg",
+      "full": "shots/2026-10-26-0659/k95-it-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "kononenkogroup-com",
+      "url": "https://kononenkogroup.com",
+      "hero": "shots/2026-10-26-0659/kononenkogroup-com-hero.jpg",
+      "full": "shots/2026-10-26-0659/kononenkogroup-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "verostudio-com",
+      "url": "https://verostudio.com/",
+      "hero": "shots/2026-10-26-0659/verostudio-com-hero.jpg",
+      "full": "shots/2026-10-26-0659/verostudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
