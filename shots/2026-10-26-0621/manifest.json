@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-26-0621",
+  "items": [
+    {
+      "id": "rossbuilt-com",
+      "url": "https://www.rossbuilt.com/",
+      "hero": "shots/2026-10-26-0621/rossbuilt-com-hero.jpg",
+      "full": "shots/2026-10-26-0621/rossbuilt-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "senawastudio-com",
+      "url": "https://senawastudio.com",
+      "hero": "shots/2026-10-26-0621/senawastudio-com-hero.jpg",
+      "full": "shots/2026-10-26-0621/senawastudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "cominvi-com-mx",
+      "url": "https://www.cominvi.com.mx/",
+      "hero": "shots/2026-10-26-0621/cominvi-com-mx-hero.jpg",
+      "full": "shots/2026-10-26-0621/cominvi-com-mx-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "arcoglobal-com",
+      "url": "https://arcoglobal.com",
+      "hero": "shots/2026-10-26-0621/arcoglobal-com-hero.jpg",
+      "full": "shots/2026-10-26-0621/arcoglobal-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "metic-studio",
+      "url": "https://metic.studio/en",
+      "hero": "shots/2026-10-26-0621/metic-studio-hero.jpg",
+      "full": "shots/2026-10-26-0621/metic-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "forgeautomotive-co-uk",
+      "url": "https://forgeautomotive.co.uk/",
+      "hero": "shots/2026-10-26-0621/forgeautomotive-co-uk-hero.jpg",
+      "full": "shots/2026-10-26-0621/forgeautomotive-co-uk-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "white-desert-com",
+      "url": "https://white-desert.com/",
+      "hero": "shots/2026-10-26-0621/white-desert-com-hero.jpg",
+      "full": "shots/2026-10-26-0621/white-desert-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "halcyon-co-nz",
+      "url": "https://www.halcyon.co.nz/",
+      "hero": "shots/2026-10-26-0621/halcyon-co-nz-hero.jpg",
+      "full": "shots/2026-10-26-0621/halcyon-co-nz-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
