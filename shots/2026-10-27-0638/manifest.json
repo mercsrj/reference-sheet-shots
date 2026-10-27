@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-27-0638",
+  "items": [
+    {
+      "id": "lamalama-com",
+      "url": "https://lamalama.com/",
+      "hero": "shots/2026-10-27-0638/lamalama-com-hero.jpg",
+      "full": "shots/2026-10-27-0638/lamalama-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
