@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-27-0621",
+  "items": [
+    {
+      "id": "stockdevelopment-com",
+      "url": "https://www.stockdevelopment.com/",
+      "hero": "shots/2026-10-27-0621/stockdevelopment-com-hero.jpg",
+      "full": "shots/2026-10-27-0621/stockdevelopment-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "bcgbuildingdesign-com-au",
+      "url": "https://bcgbuildingdesign.com.au/",
+      "hero": "shots/2026-10-27-0621/bcgbuildingdesign-com-au-hero.jpg",
+      "full": "shots/2026-10-27-0621/bcgbuildingdesign-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "senecagroup-com",
+      "url": "https://senecagroup.com/",
+      "hero": "shots/2026-10-27-0621/senecagroup-com-hero.jpg",
+      "full": "shots/2026-10-27-0621/senecagroup-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "woonpact-gent",
+      "url": "https://woonpact.gent/",
+      "hero": "shots/2026-10-27-0621/woonpact-gent-hero.jpg",
+      "full": "shots/2026-10-27-0621/woonpact-gent-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "pnzfas-com",
+      "url": "https://www.pnzfas.com/",
+      "hero": "shots/2026-10-27-0621/pnzfas-com-hero.jpg",
+      "full": "shots/2026-10-27-0621/pnzfas-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hanusek-com",
+      "url": "https://www.hanusek.com",
+      "hero": "shots/2026-10-27-0621/hanusek-com-hero.jpg",
+      "full": "shots/2026-10-27-0621/hanusek-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "eezyinn-de",
+      "url": "https://eezyinn.de",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://eezyinn.de/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "dwell-au",
+      "url": "https://dwell.au/",
+      "hero": "shots/2026-10-27-0621/dwell-au-hero.jpg",
+      "full": "shots/2026-10-27-0621/dwell-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
