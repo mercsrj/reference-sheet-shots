@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-28-0621",
+  "items": [
+    {
+      "id": "philkeandesigns-com",
+      "url": "https://philkeandesigns.com/",
+      "hero": "shots/2026-10-28-0621/philkeandesigns-com-hero.jpg",
+      "full": "shots/2026-10-28-0621/philkeandesigns-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "raymondjungles-com",
+      "url": "https://www.raymondjungles.com/",
+      "hero": "shots/2026-10-28-0621/raymondjungles-com-hero.jpg",
+      "full": "shots/2026-10-28-0621/raymondjungles-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "tekt-com-au",
+      "url": "https://tekt.com.au/",
+      "hero": "shots/2026-10-28-0621/tekt-com-au-hero.jpg",
+      "full": "shots/2026-10-28-0621/tekt-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "azimuteresidencial-com-br",
+      "url": "https://azimuteresidencial.com.br/",
+      "hero": "shots/2026-10-28-0621/azimuteresidencial-com-br-hero.jpg",
+      "full": "shots/2026-10-28-0621/azimuteresidencial-com-br-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "1minus1-com",
+      "url": "https://1minus1.com/",
+      "hero": "shots/2026-10-28-0621/1minus1-com-hero.jpg",
+      "full": "shots/2026-10-28-0621/1minus1-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "crz-studio",
+      "url": "https://www.crz.studio/",
+      "hero": "shots/2026-10-28-0621/crz-studio-hero.jpg",
+      "full": "shots/2026-10-28-0621/crz-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "rodinahotels-ru",
+      "url": "https://rodinahotels.ru/en",
+      "hero": "shots/2026-10-28-0621/rodinahotels-ru-hero.jpg",
+      "full": "shots/2026-10-28-0621/rodinahotels-ru-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "studiodentisticodrangelucci-it",
+      "url": "https://www.studiodentisticodrangelucci.it/",
+      "hero": "shots/2026-10-28-0621/studiodentisticodrangelucci-it-hero.jpg",
+      "full": "shots/2026-10-28-0621/studiodentisticodrangelucci-it-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
