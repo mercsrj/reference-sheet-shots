@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-29-0621",
+  "items": [
+    {
+      "id": "seawoodbuilders-com",
+      "url": "https://seawoodbuilders.com/",
+      "hero": "shots/2026-10-29-0621/seawoodbuilders-com-hero.jpg",
+      "full": "shots/2026-10-29-0621/seawoodbuilders-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mikarchitecture-com",
+      "url": "https://mikarchitecture.com/",
+      "hero": "shots/2026-10-29-0621/mikarchitecture-com-hero.jpg",
+      "full": "shots/2026-10-29-0621/mikarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "davidchipperfield-com",
+      "url": "https://davidchipperfield.com/",
+      "hero": "shots/2026-10-29-0621/davidchipperfield-com-hero.jpg",
+      "full": "shots/2026-10-29-0621/davidchipperfield-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "snohetta-com",
+      "url": "https://www.snohetta.com/",
+      "hero": "shots/2026-10-29-0621/snohetta-com-hero.jpg",
+      "full": "shots/2026-10-29-0621/snohetta-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "agr-studio",
+      "url": "https://agr.studio",
+      "hero": "shots/2026-10-29-0621/agr-studio-hero.jpg",
+      "full": "shots/2026-10-29-0621/agr-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "coreastudios-com",
+      "url": "https://www.coreastudios.com/",
+      "hero": "shots/2026-10-29-0621/coreastudios-com-hero.jpg",
+      "full": "shots/2026-10-29-0621/coreastudios-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "royalsites-ie",
+      "url": "https://royalsites.ie/",
+      "hero": "shots/2026-10-29-0621/royalsites-ie-hero.jpg",
+      "full": "shots/2026-10-29-0621/royalsites-ie-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "jakobsencopenhagen-com",
+      "url": "https://jakobsencopenhagen.com/",
+      "hero": "shots/2026-10-29-0621/jakobsencopenhagen-com-hero.jpg",
+      "full": "shots/2026-10-29-0621/jakobsencopenhagen-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
