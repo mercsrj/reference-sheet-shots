@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-30-0621",
+  "items": [
+    {
+      "id": "buildcover-com",
+      "url": "https://www.buildcover.com/",
+      "hero": "shots/2026-10-30-0621/buildcover-com-hero.jpg",
+      "full": "shots/2026-10-30-0621/buildcover-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "liljewall-se",
+      "url": "https://www.liljewall.se/",
+      "hero": "shots/2026-10-30-0621/liljewall-se-hero.jpg",
+      "full": "shots/2026-10-30-0621/liljewall-se-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "dpz-com",
+      "url": "https://www.dpz.com/",
+      "hero": "shots/2026-10-30-0621/dpz-com-hero.jpg",
+      "full": "shots/2026-10-30-0621/dpz-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "arquitectonica-com",
+      "url": "https://arquitectonica.com/",
+      "hero": "shots/2026-10-30-0621/arquitectonica-com-hero.jpg",
+      "full": "shots/2026-10-30-0621/arquitectonica-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "grandecharte-co",
+      "url": "https://grandecharte.co/",
+      "hero": "shots/2026-10-30-0621/grandecharte-co-hero.jpg",
+      "full": "shots/2026-10-30-0621/grandecharte-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "auge-xp-com",
+      "url": "https://auge-xp.com/",
+      "hero": "shots/2026-10-30-0621/auge-xp-com-hero.jpg",
+      "full": "shots/2026-10-30-0621/auge-xp-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "arcmarumo-com",
+      "url": "https://arcmarumo.com/",
+      "hero": "shots/2026-10-30-0621/arcmarumo-com-hero.jpg",
+      "full": "shots/2026-10-30-0621/arcmarumo-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "franklinazzi-fr",
+      "url": "https://www.franklinazzi.fr/en",
+      "hero": "shots/2026-10-30-0621/franklinazzi-fr-hero.jpg",
+      "full": "shots/2026-10-30-0621/franklinazzi-fr-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
