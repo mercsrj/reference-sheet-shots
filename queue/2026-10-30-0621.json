@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-30-0621",
+  "items": [
+    {
+      "id": "buildcover-com",
+      "url": "https://www.buildcover.com/"
+    },
+    {
+      "id": "liljewall-se",
+      "url": "https://www.liljewall.se/"
+    },
+    {
+      "id": "dpz-com",
+      "url": "https://www.dpz.com/"
+    },
+    {
+      "id": "arquitectonica-com",
+      "url": "https://arquitectonica.com/"
+    },
+    {
+      "id": "grandecharte-co",
+      "url": "https://grandecharte.co/"
+    },
+    {
+      "id": "auge-xp-com",
+      "url": "https://auge-xp.com/"
+    },
+    {
+      "id": "arcmarumo-com",
+      "url": "https://arcmarumo.com/"
+    },
+    {
+      "id": "franklinazzi-fr",
+      "url": "https://www.franklinazzi.fr/en"
+    }
+  ]
+}
