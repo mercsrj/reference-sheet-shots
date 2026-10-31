@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-31-0621",
+  "items": [
+    {
+      "id": "group8-ch",
+      "url": "https://www.group8.ch/",
+      "hero": "shots/2026-10-31-0621/group8-ch-hero.jpg",
+      "full": "shots/2026-10-31-0621/group8-ch-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "altunarchitects-com",
+      "url": "https://altunarchitects.com/",
+      "hero": "shots/2026-10-31-0621/altunarchitects-com-hero.jpg",
+      "full": "shots/2026-10-31-0621/altunarchitects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "yodezeen-com",
+      "url": "https://www.yodezeen.com/",
+      "hero": "shots/2026-10-31-0621/yodezeen-com-hero.jpg",
+      "full": "shots/2026-10-31-0621/yodezeen-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "huum-com",
+      "url": "https://huum.com/",
+      "hero": "shots/2026-10-31-0621/huum-com-hero.jpg",
+      "full": "shots/2026-10-31-0621/huum-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "blond-cc",
+      "url": "https://blond.cc/",
+      "hero": "shots/2026-10-31-0621/blond-cc-hero.jpg",
+      "full": "shots/2026-10-31-0621/blond-cc-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "unionboulangerie-com",
+      "url": "https://unionboulangerie.com/",
+      "hero": "shots/2026-10-31-0621/unionboulangerie-com-hero.jpg",
+      "full": "shots/2026-10-31-0621/unionboulangerie-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "maisonlesgrandschenes-com",
+      "url": "https://www.maisonlesgrandschenes.com/",
+      "hero": "shots/2026-10-31-0621/maisonlesgrandschenes-com-hero.jpg",
+      "full": "shots/2026-10-31-0621/maisonlesgrandschenes-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "vivmgmt-com",
+      "url": "https://vivmgmt.com/",
+      "hero": "shots/2026-10-31-0621/vivmgmt-com-hero.jpg",
+      "full": "shots/2026-10-31-0621/vivmgmt-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
