@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-01-0626",
+  "items": [
+    {
+      "id": "shulman-design-com",
+      "url": "https://www.shulman-design.com/",
+      "hero": "shots/2026-11-01-0626/shulman-design-com-hero.jpg",
+      "full": "shots/2026-11-01-0626/shulman-design-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "swedroe-com",
+      "url": "https://swedroe.com/",
+      "hero": "shots/2026-11-01-0626/swedroe-com-hero.jpg",
+      "full": "shots/2026-11-01-0626/swedroe-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "kobikarp-com",
+      "url": "https://www.kobikarp.com/",
+      "hero": "shots/2026-11-01-0626/kobikarp-com-hero.jpg",
+      "full": "shots/2026-11-01-0626/kobikarp-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
