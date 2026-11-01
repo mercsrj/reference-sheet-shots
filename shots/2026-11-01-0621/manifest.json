@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-01-0621",
+  "items": [
+    {
+      "id": "kaufmanlynn-com",
+      "url": "https://www.kaufmanlynn.com/",
+      "hero": "shots/2026-11-01-0621/kaufmanlynn-com-hero.jpg",
+      "full": "shots/2026-11-01-0621/kaufmanlynn-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "clfarchitects-com",
+      "url": "https://clfarchitects.com/home/",
+      "hero": "shots/2026-11-01-0621/clfarchitects-com-hero.jpg",
+      "full": "shots/2026-11-01-0621/clfarchitects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    },
+    {
+      "id": "olsonkundig-com",
+      "url": "https://www.olsonkundig.com/",
+      "hero": "shots/2026-11-01-0621/olsonkundig-com-hero.jpg",
+      "full": "shots/2026-11-01-0621/olsonkundig-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "saota-com",
+      "url": "https://saota.com/",
+      "hero": "shots/2026-11-01-0621/saota-com-hero.jpg",
+      "full": "shots/2026-11-01-0621/saota-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "nk-studio",
+      "url": "https://www.nk.studio/",
+      "hero": "shots/2026-11-01-0621/nk-studio-hero.jpg",
+      "full": "shots/2026-11-01-0621/nk-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ol-studio",
+      "url": "https://ol.studio/",
+      "hero": "shots/2026-11-01-0621/ol-studio-hero.jpg",
+      "full": "shots/2026-11-01-0621/ol-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "littleplains-com",
+      "url": "https://www.littleplains.com/",
+      "hero": "shots/2026-11-01-0621/littleplains-com-hero.jpg",
+      "full": "shots/2026-11-01-0621/littleplains-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "wschupfer-com",
+      "url": "https://wschupfer.com/",
+      "hero": "shots/2026-11-01-0621/wschupfer-com-hero.jpg",
+      "full": "shots/2026-11-01-0621/wschupfer-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
