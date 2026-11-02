@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-02-0854",
+  "items": [
+    {
+      "id": "terragroup-com",
+      "url": "https://www.terragroup.com/",
+      "hero": "shots/2026-11-02-0854/terragroup-com-hero.jpg",
+      "full": "shots/2026-11-02-0854/terragroup-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "okogroup-com",
+      "url": "https://www.okogroup.com/",
+      "hero": "shots/2026-11-02-0854/okogroup-com-hero.jpg",
+      "full": "shots/2026-11-02-0854/okogroup-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    },
+    {
+      "id": "primes-com-au",
+      "url": "https://www.primes.com.au/",
+      "hero": "shots/2026-11-02-0854/primes-com-au-hero.jpg",
+      "full": "shots/2026-11-02-0854/primes-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "eladiodieste-com",
+      "url": "https://www.eladiodieste.com/",
+      "hero": "shots/2026-11-02-0854/eladiodieste-com-hero.jpg",
+      "full": "shots/2026-11-02-0854/eladiodieste-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "icapital-es",
+      "url": "https://www.icapital.es/en/",
+      "hero": "shots/2026-11-02-0854/icapital-es-hero.jpg",
+      "full": "shots/2026-11-02-0854/icapital-es-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "stellarmanagement-com",
+      "url": "https://www.stellarmanagement.com",
+      "hero": "shots/2026-11-02-0854/stellarmanagement-com-hero.jpg",
+      "full": "shots/2026-11-02-0854/stellarmanagement-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "anthracitestudio-be",
+      "url": "https://anthracitestudio.be/en/",
+      "hero": "shots/2026-11-02-0854/anthracitestudio-be-hero.jpg",
+      "full": "shots/2026-11-02-0854/anthracitestudio-be-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "themodernhouse-com",
+      "url": "https://www.themodernhouse.com/",
+      "hero": "shots/2026-11-02-0854/themodernhouse-com-hero.jpg",
+      "full": "shots/2026-11-02-0854/themodernhouse-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
