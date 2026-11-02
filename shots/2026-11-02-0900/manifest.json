@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-02-0900",
+  "items": [
+    {
+      "id": "aucoot-com",
+      "url": "https://www.aucoot.com/",
+      "hero": "shots/2026-11-02-0900/aucoot-com-hero.jpg",
+      "full": "shots/2026-11-02-0900/aucoot-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "relatedgroup-com",
+      "url": "https://www.relatedgroup.com/",
+      "hero": "shots/2026-11-02-0900/relatedgroup-com-hero.jpg",
+      "full": "shots/2026-11-02-0900/relatedgroup-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
