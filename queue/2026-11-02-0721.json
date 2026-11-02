@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-02-0721",
+  "items": [
+    {
+      "id": "terragroup-com",
+      "url": "https://www.terragroup.com/"
+    },
+    {
+      "id": "okogroup-com",
+      "url": "https://www.okogroup.com/"
+    },
+    {
+      "id": "primes-com-au",
+      "url": "https://www.primes.com.au/"
+    },
+    {
+      "id": "eladiodieste-com",
+      "url": "https://www.eladiodieste.com/"
+    },
+    {
+      "id": "icapital-es",
+      "url": "https://www.icapital.es/en/"
+    },
+    {
+      "id": "fortvega-com",
+      "url": "https://www.fortvega.com/"
+    },
+    {
+      "id": "stellarmanagement-com",
+      "url": "https://www.stellarmanagement.com"
+    },
+    {
+      "id": "anthracitestudio-be",
+      "url": "https://anthracitestudio.be/en/"
+    }
+  ]
+}
