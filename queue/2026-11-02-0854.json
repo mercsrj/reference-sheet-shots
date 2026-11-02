@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02-0721",
+  "date": "2026-11-02-0854",
   "items": [
     {
       "id": "terragroup-com",
@@ -22,16 +22,16 @@
       "url": "https://www.icapital.es/en/"
     },
     {
-      "id": "fortvega-com",
-      "url": "https://www.fortvega.com/"
-    },
-    {
       "id": "stellarmanagement-com",
       "url": "https://www.stellarmanagement.com"
     },
     {
       "id": "anthracitestudio-be",
       "url": "https://anthracitestudio.be/en/"
+    },
+    {
+      "id": "themodernhouse-com",
+      "url": "https://www.themodernhouse.com/"
     }
   ]
 }
