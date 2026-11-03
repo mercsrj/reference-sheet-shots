@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-03-0621",
+  "items": [
+    {
+      "id": "fernandezarchitecture-com",
+      "url": "https://www.fernandezarchitecture.com/",
+      "hero": "shots/2026-11-03-0621/fernandezarchitecture-com-hero.jpg",
+      "full": "shots/2026-11-03-0621/fernandezarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "scullion-ie",
+      "url": "https://scullion.ie/",
+      "hero": "shots/2026-11-03-0621/scullion-ie-hero.jpg",
+      "full": "shots/2026-11-03-0621/scullion-ie-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "kierantimberlake-com",
+      "url": "https://kierantimberlake.com/",
+      "hero": "shots/2026-11-03-0621/kierantimberlake-com-hero.jpg",
+      "full": "shots/2026-11-03-0621/kierantimberlake-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "preschelbassanstudio-com",
+      "url": "https://www.preschelbassanstudio.com/",
+      "hero": "shots/2026-11-03-0621/preschelbassanstudio-com-hero.jpg",
+      "full": "shots/2026-11-03-0621/preschelbassanstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "iwonderu-se",
+      "url": "https://www.iwonderu.se/",
+      "hero": "shots/2026-11-03-0621/iwonderu-se-hero.jpg",
+      "full": "shots/2026-11-03-0621/iwonderu-se-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "boc-studio",
+      "url": "https://boc.studio/",
+      "hero": "shots/2026-11-03-0621/boc-studio-hero.jpg",
+      "full": "shots/2026-11-03-0621/boc-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "danielblue-com",
+      "url": "https://danielblue.com/",
+      "hero": "shots/2026-11-03-0621/danielblue-com-hero.jpg",
+      "full": "shots/2026-11-03-0621/danielblue-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "fume-studio-com",
+      "url": "https://fume-studio.com/",
+      "hero": "shots/2026-11-03-0621/fume-studio-com-hero.jpg",
+      "full": "shots/2026-11-03-0621/fume-studio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}

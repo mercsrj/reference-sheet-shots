@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-02-0621",
+  "items": [
+    {
+      "id": "fortvega-com",
+      "url": "https://www.fortvega.com/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n"
+    }
+  ]
+}
