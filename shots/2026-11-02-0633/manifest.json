@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-02-0633",
+  "items": [
+    {
+      "id": "urbansplash-co-uk",
+      "url": "https://www.urbansplash.co.uk/",
+      "hero": "shots/2026-11-02-0633/urbansplash-co-uk-hero.jpg",
+      "full": "shots/2026-11-02-0633/urbansplash-co-uk-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hubgroup-co-uk",
+      "url": "https://hubgroup.co.uk/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://hubgroup.co.uk/\nCall log:\n  - navigating to \"https://hubgroup.co.uk/\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
+}
