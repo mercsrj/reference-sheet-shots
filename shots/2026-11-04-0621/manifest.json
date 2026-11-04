@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-04-0621",
+  "items": [
+    {
+      "id": "livinghouse-nz",
+      "url": "https://livinghouse.nz",
+      "hero": "shots/2026-11-04-0621/livinghouse-nz-hero.jpg",
+      "full": "shots/2026-11-04-0621/livinghouse-nz-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mcalpinehouse-com",
+      "url": "https://mcalpinehouse.com/",
+      "hero": "shots/2026-11-04-0621/mcalpinehouse-com-hero.jpg",
+      "full": "shots/2026-11-04-0621/mcalpinehouse-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "guypeterson-com",
+      "url": "https://www.guypeterson.com/",
+      "hero": "shots/2026-11-04-0621/guypeterson-com-hero.jpg",
+      "full": "shots/2026-11-04-0621/guypeterson-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "isla-homes-com",
+      "url": "https://isla-homes.com/",
+      "hero": "shots/2026-11-04-0621/isla-homes-com-hero.jpg",
+      "full": "shots/2026-11-04-0621/isla-homes-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "polpharmabiologics-com",
+      "url": "https://www.polpharmabiologics.com/",
+      "hero": "shots/2026-11-04-0621/polpharmabiologics-com-hero.jpg",
+      "full": "shots/2026-11-04-0621/polpharmabiologics-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "johnbolster-design",
+      "url": "https://www.johnbolster.design/",
+      "hero": "shots/2026-11-04-0621/johnbolster-design-hero.jpg",
+      "full": "shots/2026-11-04-0621/johnbolster-design-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "osply-co",
+      "url": "https://www.osply.co/",
+      "hero": "shots/2026-11-04-0621/osply-co-hero.jpg",
+      "full": "shots/2026-11-04-0621/osply-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "oathbiome-com",
+      "url": "https://www.oathbiome.com/",
+      "hero": "shots/2026-11-04-0621/oathbiome-com-hero.jpg",
+      "full": "shots/2026-11-04-0621/oathbiome-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    }
+  ]
+}
