@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-04-0633",
+  "items": [
+    {
+      "id": "studiograpa-com",
+      "url": "https://studiograpa.com/",
+      "hero": "shots/2026-11-04-0633/studiograpa-com-hero.jpg",
+      "full": "shots/2026-11-04-0633/studiograpa-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "studiobruch-com",
+      "url": "https://studiobruch.com/",
+      "hero": "shots/2026-11-04-0633/studiobruch-com-hero.jpg",
+      "full": "shots/2026-11-04-0633/studiobruch-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
