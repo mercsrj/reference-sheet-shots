@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-05-0621",
+  "items": [
+    {
+      "id": "tractionarchitecture-com",
+      "url": "https://www.tractionarchitecture.com/",
+      "hero": "shots/2026-11-05-0621/tractionarchitecture-com-hero.jpg",
+      "full": "shots/2026-11-05-0621/tractionarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "dowenfarmer-com",
+      "url": "https://www.dowenfarmer.com/",
+      "hero": "shots/2026-11-05-0621/dowenfarmer-com-hero.jpg",
+      "full": "shots/2026-11-05-0621/dowenfarmer-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "wam-studio",
+      "url": "https://wam.studio/",
+      "hero": "shots/2026-11-05-0621/wam-studio-hero.jpg",
+      "full": "shots/2026-11-05-0621/wam-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "michaelwolkdesign-com",
+      "url": "https://www.michaelwolkdesign.com/",
+      "hero": "shots/2026-11-05-0621/michaelwolkdesign-com-hero.jpg",
+      "full": "shots/2026-11-05-0621/michaelwolkdesign-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "kopetzki-law",
+      "url": "https://kopetzki.law/",
+      "hero": "shots/2026-11-05-0621/kopetzki-law-hero.jpg",
+      "full": "shots/2026-11-05-0621/kopetzki-law-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "archivio-garonzi1925-com",
+      "url": "https://archivio.garonzi1925.com/",
+      "hero": "shots/2026-11-05-0621/archivio-garonzi1925-com-hero.jpg",
+      "full": "shots/2026-11-05-0621/archivio-garonzi1925-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "charterflightsupport-com",
+      "url": "https://www.charterflightsupport.com/",
+      "hero": "shots/2026-11-05-0621/charterflightsupport-com-hero.jpg",
+      "full": "shots/2026-11-05-0621/charterflightsupport-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "unanim-studio",
+      "url": "https://unanim.studio/en",
+      "hero": "shots/2026-11-05-0621/unanim-studio-hero.jpg",
+      "full": "shots/2026-11-05-0621/unanim-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
