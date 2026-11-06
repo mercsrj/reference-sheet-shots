@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-06-0620",
+  "items": [
+    {
+      "id": "kobikarp-com",
+      "url": "https://www.kobikarp.com/",
+      "hero": "shots/2026-11-06-0620/kobikarp-com-hero.jpg",
+      "full": "shots/2026-11-06-0620/kobikarp-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "newacton-com-au",
+      "url": "https://newacton.com.au/",
+      "hero": "shots/2026-11-06-0620/newacton-com-au-hero.jpg",
+      "full": "shots/2026-11-06-0620/newacton-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "pxpdesign-ca",
+      "url": "https://pxpdesign.ca/",
+      "hero": "shots/2026-11-06-0620/pxpdesign-ca-hero.jpg",
+      "full": "shots/2026-11-06-0620/pxpdesign-ca-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "groth-studio",
+      "url": "https://groth.studio/",
+      "hero": "shots/2026-11-06-0620/groth-studio-hero.jpg",
+      "full": "shots/2026-11-06-0620/groth-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "endurosat-com",
+      "url": "https://www.endurosat.com/space-service/",
+      "hero": "shots/2026-11-06-0620/endurosat-com-hero.jpg",
+      "full": "shots/2026-11-06-0620/endurosat-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "supereightstudio-com",
+      "url": "https://supereightstudio.com/",
+      "hero": "shots/2026-11-06-0620/supereightstudio-com-hero.jpg",
+      "full": "shots/2026-11-06-0620/supereightstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hyperspeed-agency",
+      "url": "https://hyperspeed.agency/en/",
+      "hero": "shots/2026-11-06-0620/hyperspeed-agency-hero.jpg",
+      "full": "shots/2026-11-06-0620/hyperspeed-agency-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "appliedartsmag-com",
+      "url": "https://www.appliedartsmag.com/",
+      "hero": "shots/2026-11-06-0620/appliedartsmag-com-hero.jpg",
+      "full": "shots/2026-11-06-0620/appliedartsmag-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
