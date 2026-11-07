@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-07-0621",
+  "items": [
+    {
+      "id": "thomasrileyartisansguild-com",
+      "url": "https://www.thomasrileyartisansguild.com/",
+      "hero": "shots/2026-11-07-0621/thomasrileyartisansguild-com-hero.jpg",
+      "full": "shots/2026-11-07-0621/thomasrileyartisansguild-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "artifactproperty-co-nz",
+      "url": "https://artifactproperty.co.nz/",
+      "hero": "shots/2026-11-07-0621/artifactproperty-co-nz-hero.jpg",
+      "full": "shots/2026-11-07-0621/artifactproperty-co-nz-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "alfonsoarchitects-com",
+      "url": "https://www.alfonsoarchitects.com/",
+      "hero": "shots/2026-11-07-0621/alfonsoarchitects-com-hero.jpg",
+      "full": "shots/2026-11-07-0621/alfonsoarchitects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "paulineborgia-com",
+      "url": "https://www.paulineborgia.com/",
+      "hero": "shots/2026-11-07-0621/paulineborgia-com-hero.jpg",
+      "full": "shots/2026-11-07-0621/paulineborgia-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "catesbyfawkes-com",
+      "url": "https://catesbyfawkes.com/",
+      "hero": "shots/2026-11-07-0621/catesbyfawkes-com-hero.jpg",
+      "full": "shots/2026-11-07-0621/catesbyfawkes-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "stanza27-com",
+      "url": "https://stanza27.com/",
+      "hero": "shots/2026-11-07-0621/stanza27-com-hero.jpg",
+      "full": "shots/2026-11-07-0621/stanza27-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "klimtwine-com",
+      "url": "https://klimtwine.com/en",
+      "hero": "shots/2026-11-07-0621/klimtwine-com-hero.jpg",
+      "full": "shots/2026-11-07-0621/klimtwine-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "karlion-si",
+      "url": "https://karlion.si/en/",
+      "hero": "shots/2026-11-07-0621/karlion-si-hero.jpg",
+      "full": "shots/2026-11-07-0621/karlion-si-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
