@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-07-0629",
+  "items": [
+    {
+      "id": "makearchitects-com",
+      "url": "https://www.makearchitects.com/",
+      "hero": "shots/2026-11-07-0629/makearchitects-com-hero.jpg",
+      "full": "shots/2026-11-07-0629/makearchitects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "wilkinsoneyre-com",
+      "url": "https://www.wilkinsoneyre.com/",
+      "hero": "shots/2026-11-07-0629/wilkinsoneyre-com-hero.jpg",
+      "full": "shots/2026-11-07-0629/wilkinsoneyre-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hentleyfarm-com-au",
+      "url": "https://hentleyfarm.com.au/",
+      "hero": "shots/2026-11-07-0629/hentleyfarm-com-au-hero.jpg",
+      "full": "shots/2026-11-07-0629/hentleyfarm-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "pasqua-it",
+      "url": "https://www.pasqua.it/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n"
+    }
+  ]
+}
