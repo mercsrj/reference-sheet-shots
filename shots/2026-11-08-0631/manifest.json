@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-08-0631",
+  "items": [
+    {
+      "id": "trionn-com",
+      "url": "https://trionn.com/",
+      "hero": "shots/2026-11-08-0631/trionn-com-hero.jpg",
+      "full": "shots/2026-11-08-0631/trionn-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
