@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-08-0621",
+  "items": [
+    {
+      "id": "halldarling-com",
+      "url": "https://www.halldarling.com/",
+      "hero": "shots/2026-11-08-0621/halldarling-com-hero.jpg",
+      "full": "shots/2026-11-08-0621/halldarling-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "leaderdesignstudio-com",
+      "url": "https://www.leaderdesignstudio.com/",
+      "hero": "shots/2026-11-08-0621/leaderdesignstudio-com-hero.jpg",
+      "full": "shots/2026-11-08-0621/leaderdesignstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "harwickhomes-com",
+      "url": "https://www.harwickhomes.com/",
+      "hero": "shots/2026-11-08-0621/harwickhomes-com-hero.jpg",
+      "full": "shots/2026-11-08-0621/harwickhomes-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "andandand-studio",
+      "url": "https://andandand.studio",
+      "hero": "shots/2026-11-08-0621/andandand-studio-hero.jpg",
+      "full": "shots/2026-11-08-0621/andandand-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "epdigitalstudio-pl",
+      "url": "https://epdigitalstudio.pl/en/",
+      "hero": "shots/2026-11-08-0621/epdigitalstudio-pl-hero.jpg",
+      "full": "shots/2026-11-08-0621/epdigitalstudio-pl-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "neuroformtech-com",
+      "url": "https://www.neuroformtech.com/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n"
+    },
+    {
+      "id": "stephenkentjohnson-com",
+      "url": "https://stephenkentjohnson.com/",
+      "hero": "shots/2026-11-08-0621/stephenkentjohnson-com-hero.jpg",
+      "full": "shots/2026-11-08-0621/stephenkentjohnson-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "flyshare-design",
+      "url": "https://flyshare.design",
+      "hero": "shots/2026-11-08-0621/flyshare-design-hero.jpg",
+      "full": "shots/2026-11-08-0621/flyshare-design-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
