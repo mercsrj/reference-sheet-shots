@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-09-0806",
+  "items": [
+    {
+      "id": "thehoxton-com",
+      "url": "https://thehoxton.com/",
+      "hero": "shots/2026-11-09-0806/thehoxton-com-hero.jpg",
+      "full": "shots/2026-11-09-0806/thehoxton-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "wearecollins-com",
+      "url": "https://www.wearecollins.com/",
+      "hero": "shots/2026-11-09-0806/wearecollins-com-hero.jpg",
+      "full": "shots/2026-11-09-0806/wearecollins-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
