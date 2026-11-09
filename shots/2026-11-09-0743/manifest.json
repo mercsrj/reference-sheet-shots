@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-09-0743",
+  "items": [
+    {
+      "id": "marc-michaels-com",
+      "url": "https://marc-michaels.com/",
+      "hero": "shots/2026-11-09-0743/marc-michaels-com-hero.jpg",
+      "full": "shots/2026-11-09-0743/marc-michaels-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "marmol-radziner-com",
+      "url": "https://www.marmol-radziner.com/",
+      "hero": "shots/2026-11-09-0743/marmol-radziner-com-hero.jpg",
+      "full": "shots/2026-11-09-0743/marmol-radziner-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "herzogdemeuron-com",
+      "url": "https://www.herzogdemeuron.com/",
+      "hero": "shots/2026-11-09-0743/herzogdemeuron-com-hero.jpg",
+      "full": "shots/2026-11-09-0743/herzogdemeuron-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "johnstonmarklee-com",
+      "url": "https://www.johnstonmarklee.com/",
+      "hero": "shots/2026-11-09-0743/johnstonmarklee-com-hero.jpg",
+      "full": "shots/2026-11-09-0743/johnstonmarklee-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "pentagram-com",
+      "url": "https://www.pentagram.com/",
+      "hero": "shots/2026-11-09-0743/pentagram-com-hero.jpg",
+      "full": "shots/2026-11-09-0743/pentagram-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "instrument-com",
+      "url": "https://www.instrument.com/",
+      "hero": "shots/2026-11-09-0743/instrument-com-hero.jpg",
+      "full": "shots/2026-11-09-0743/instrument-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "acehotel-com",
+      "url": "https://acehotel.com/",
+      "hero": "shots/2026-11-09-0743/acehotel-com-hero.jpg",
+      "full": "shots/2026-11-09-0743/acehotel-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "studiodumbar-com",
+      "url": "https://studiodumbar.com/",
+      "hero": "shots/2026-11-09-0743/studiodumbar-com-hero.jpg",
+      "full": "shots/2026-11-09-0743/studiodumbar-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}

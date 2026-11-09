@@ -4,10 +4,11 @@
     {
       "id": "structureengineering-com-au",
       "url": "https://structureengineering.com.au/",
-      "hero": null,
-      "full": null,
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://structureengineering.com.au/\", waiting until \"domcontentloaded\"\n"
+      "hero": "shots/2026-10-19/structureengineering-com-au-hero.jpg",
+      "full": "shots/2026-10-19/structureengineering-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
     }
   ]
 }
