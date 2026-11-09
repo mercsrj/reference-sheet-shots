@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-09-0621",
+  "items": [
+    {
+      "id": "marc-michaels-com",
+      "url": "https://marc-michaels.com/"
+    },
+    {
+      "id": "marmol-radziner-com",
+      "url": "https://www.marmol-radziner.com/"
+    },
+    {
+      "id": "herzogdemeuron-com",
+      "url": "https://www.herzogdemeuron.com/"
+    },
+    {
+      "id": "johnstonmarklee-com",
+      "url": "https://www.johnstonmarklee.com/"
+    },
+    {
+      "id": "pentagram-com",
+      "url": "https://www.pentagram.com/"
+    },
+    {
+      "id": "locomotive-ca",
+      "url": "https://locomotive.ca/en"
+    },
+    {
+      "id": "instrument-com",
+      "url": "https://www.instrument.com/"
+    },
+    {
+      "id": "acehotel-com",
+      "url": "https://acehotel.com/"
+    }
+  ]
+}
