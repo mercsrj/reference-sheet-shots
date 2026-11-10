@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-10-0621",
+  "items": [
+    {
+      "id": "cmsaarchitects-com",
+      "url": "https://www.cmsaarchitects.com/",
+      "hero": "shots/2026-11-10-0621/cmsaarchitects-com-hero.jpg",
+      "full": "shots/2026-11-10-0621/cmsaarchitects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ankestern-com",
+      "url": "https://ankestern.com/",
+      "hero": "shots/2026-11-10-0621/ankestern-com-hero.jpg",
+      "full": "shots/2026-11-10-0621/ankestern-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "cielia-com",
+      "url": "https://cielia.com/m/kyoto/",
+      "hero": "shots/2026-11-10-0621/cielia-com-hero.jpg",
+      "full": "shots/2026-11-10-0621/cielia-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ogud-co-jp",
+      "url": "https://ogud.co.jp/urbanex/shift/",
+      "hero": "shots/2026-11-10-0621/ogud-co-jp-hero.jpg",
+      "full": "shots/2026-11-10-0621/ogud-co-jp-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "koto-com",
+      "url": "https://koto.com/",
+      "hero": "shots/2026-11-10-0621/koto-com-hero.jpg",
+      "full": "shots/2026-11-10-0621/koto-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    },
+    {
+      "id": "basicagency-com",
+      "url": "https://www.basicagency.com/",
+      "hero": "shots/2026-11-10-0621/basicagency-com-hero.jpg",
+      "full": "shots/2026-11-10-0621/basicagency-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "pangrampangram-com",
+      "url": "https://pangrampangram.com/",
+      "hero": "shots/2026-11-10-0621/pangrampangram-com-hero.jpg",
+      "full": "shots/2026-11-10-0621/pangrampangram-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "lesrochesrouges-com",
+      "url": "https://www.lesrochesrouges.com/",
+      "hero": "shots/2026-11-10-0621/lesrochesrouges-com-hero.jpg",
+      "full": "shots/2026-11-10-0621/lesrochesrouges-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
