@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-10-0630",
+  "items": [
+    {
+      "id": "dn-co-com",
+      "url": "https://www.dn-co.com/",
+      "hero": "shots/2026-11-10-0630/dn-co-com-hero.jpg",
+      "full": "shots/2026-11-10-0630/dn-co-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hyperakt-com",
+      "url": "https://hyperakt.com/",
+      "hero": "shots/2026-11-10-0630/hyperakt-com-hero.jpg",
+      "full": "shots/2026-11-10-0630/hyperakt-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
