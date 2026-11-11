@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-11-0731",
+  "items": [
+    {
+      "id": "order-design",
+      "url": "https://order.design/",
+      "hero": "shots/2026-11-11-0731/order-design-hero.jpg",
+      "full": "shots/2026-11-11-0731/order-design-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "manualcreative-com",
+      "url": "https://manualcreative.com/",
+      "hero": "shots/2026-11-11-0731/manualcreative-com-hero.jpg",
+      "full": "shots/2026-11-11-0731/manualcreative-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "dn-co-com",
+      "url": "https://www.dn-co.com/",
+      "hero": "shots/2026-11-11-0731/dn-co-com-hero.jpg",
+      "full": "shots/2026-11-11-0731/dn-co-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mucho-ag",
+      "url": "https://mucho.ag/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://mucho.ag/\nCall log:\n  - navigating to \"https://mucho.ag/\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
+}
