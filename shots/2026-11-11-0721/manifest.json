@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-11-0721",
+  "items": [
+    {
+      "id": "coastalconstruction-com",
+      "url": "https://www.coastalconstruction.com/",
+      "hero": "shots/2026-11-11-0721/coastalconstruction-com-hero.jpg",
+      "full": "shots/2026-11-11-0721/coastalconstruction-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "nieverawilliams-com",
+      "url": "https://www.nieverawilliams.com/",
+      "hero": "shots/2026-11-11-0721/nieverawilliams-com-hero.jpg",
+      "full": "shots/2026-11-11-0721/nieverawilliams-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ind-studio",
+      "url": "https://ind.studio/en/",
+      "hero": "shots/2026-11-11-0721/ind-studio-hero.jpg",
+      "full": "shots/2026-11-11-0721/ind-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "collectiveoffice-com",
+      "url": "https://collectiveoffice.com/",
+      "hero": "shots/2026-11-11-0721/collectiveoffice-com-hero.jpg",
+      "full": "shots/2026-11-11-0721/collectiveoffice-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "apekon-com",
+      "url": "https://apekon.com/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n"
+    },
+    {
+      "id": "madethought-com",
+      "url": "https://www.madethought.com/",
+      "hero": "shots/2026-11-11-0721/madethought-com-hero.jpg",
+      "full": "shots/2026-11-11-0721/madethought-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "wedge-work",
+      "url": "https://www.wedge.work/",
+      "hero": "shots/2026-11-11-0721/wedge-work-hero.jpg",
+      "full": "shots/2026-11-11-0721/wedge-work-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "etablissements-studio",
+      "url": "https://etablissements.studio/",
+      "hero": "shots/2026-11-11-0721/etablissements-studio-hero.jpg",
+      "full": "shots/2026-11-11-0721/etablissements-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
