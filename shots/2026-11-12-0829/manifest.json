@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-12-0829",
+  "items": [
+    {
+      "id": "doubledimanche-fr",
+      "url": "https://doubledimanche.fr/",
+      "hero": "shots/2026-11-12-0829/doubledimanche-fr-hero.jpg",
+      "full": "shots/2026-11-12-0829/doubledimanche-fr-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
