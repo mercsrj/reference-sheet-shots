@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-12-0821",
+  "items": [
+    {
+      "id": "chambresdamis-be",
+      "url": "https://chambresdamis.be/",
+      "hero": "shots/2026-11-12-0821/chambresdamis-be-hero.jpg",
+      "full": "shots/2026-11-12-0821/chambresdamis-be-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
