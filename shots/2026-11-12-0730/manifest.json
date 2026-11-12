@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-12-0730",
+  "items": [
+    {
+      "id": "tripletta-it",
+      "url": "https://www.tripletta.it/",
+      "hero": "shots/2026-11-12-0730/tripletta-it-hero.jpg",
+      "full": "shots/2026-11-12-0730/tripletta-it-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "sqirlla-com",
+      "url": "https://sqirlla.com/",
+      "hero": "shots/2026-11-12-0730/sqirlla-com-hero.jpg",
+      "full": "shots/2026-11-12-0730/sqirlla-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    }
+  ]
+}
