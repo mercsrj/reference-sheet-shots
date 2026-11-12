@@ -1,0 +1,37 @@
+{
+ "date": "2026-11-12-0721",
+ "items": [
+  {
+   "id": "watersound-com",
+   "url": "https://www.watersound.com/"
+  },
+  {
+   "id": "arrova-eu",
+   "url": "https://arrova.eu/"
+  },
+  {
+   "id": "bmadb-fr",
+   "url": "https://www.bmadb.fr/en"
+  },
+  {
+   "id": "dowbuilt-com",
+   "url": "https://www.dowbuilt.com/"
+  },
+  {
+   "id": "chambresdamis-be",
+   "url": "https://chambresdamis.be/"
+  },
+  {
+   "id": "tacaloa-com",
+   "url": "https://www.tacaloa.com/"
+  },
+  {
+   "id": "fredericlord-com",
+   "url": "https://fredericlord.com/"
+  },
+  {
+   "id": "hidokmeh-com",
+   "url": "https://hidokmeh.com/"
+  }
+ ]
+}
