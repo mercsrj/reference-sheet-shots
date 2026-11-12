@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-12-0733",
+  "items": [
+    {
+      "id": "baolondon-com",
+      "url": "https://baolondon.com/",
+      "hero": "shots/2026-11-12-0733/baolondon-com-hero.jpg",
+      "full": "shots/2026-11-12-0733/baolondon-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "quay-com-au",
+      "url": "https://www.quay.com.au/",
+      "hero": "shots/2026-11-12-0733/quay-com-au-hero.jpg",
+      "full": "shots/2026-11-12-0733/quay-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
