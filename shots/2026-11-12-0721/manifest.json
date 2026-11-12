@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-12-0721",
+  "items": [
+    {
+      "id": "watersound-com",
+      "url": "https://www.watersound.com/",
+      "hero": "shots/2026-11-12-0721/watersound-com-hero.jpg",
+      "full": "shots/2026-11-12-0721/watersound-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "arrova-eu",
+      "url": "https://arrova.eu/",
+      "hero": "shots/2026-11-12-0721/arrova-eu-hero.jpg",
+      "full": "shots/2026-11-12-0721/arrova-eu-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "bmadb-fr",
+      "url": "https://www.bmadb.fr/en",
+      "hero": "shots/2026-11-12-0721/bmadb-fr-hero.jpg",
+      "full": "shots/2026-11-12-0721/bmadb-fr-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "dowbuilt-com",
+      "url": "https://www.dowbuilt.com/",
+      "hero": "shots/2026-11-12-0721/dowbuilt-com-hero.jpg",
+      "full": "shots/2026-11-12-0721/dowbuilt-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "chambresdamis-be",
+      "url": "https://chambresdamis.be/",
+      "hero": "shots/2026-11-12-0721/chambresdamis-be-hero.jpg",
+      "full": "shots/2026-11-12-0721/chambresdamis-be-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "tacaloa-com",
+      "url": "https://www.tacaloa.com/",
+      "hero": "shots/2026-11-12-0721/tacaloa-com-hero.jpg",
+      "full": "shots/2026-11-12-0721/tacaloa-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "fredericlord-com",
+      "url": "https://fredericlord.com/",
+      "hero": "shots/2026-11-12-0721/fredericlord-com-hero.jpg",
+      "full": "shots/2026-11-12-0721/fredericlord-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hidokmeh-com",
+      "url": "https://hidokmeh.com/",
+      "hero": "shots/2026-11-12-0721/hidokmeh-com-hero.jpg",
+      "full": "shots/2026-11-12-0721/hidokmeh-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
