@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-13-0621",
+  "items": [
+    {
+      "id": "croomconstruction-com",
+      "url": "https://www.croomconstruction.com/",
+      "hero": "shots/2026-11-13-0621/croomconstruction-com-hero.jpg",
+      "full": "shots/2026-11-13-0621/croomconstruction-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "lakeflato-com",
+      "url": "https://www.lakeflato.com/",
+      "hero": "shots/2026-11-13-0621/lakeflato-com-hero.jpg",
+      "full": "shots/2026-11-13-0621/lakeflato-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "normcph-com",
+      "url": "https://normcph.com/",
+      "hero": "shots/2026-11-13-0621/normcph-com-hero.jpg",
+      "full": "shots/2026-11-13-0621/normcph-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "houseofhoney-com",
+      "url": "https://www.houseofhoney.com/",
+      "hero": "shots/2026-11-13-0621/houseofhoney-com-hero.jpg",
+      "full": "shots/2026-11-13-0621/houseofhoney-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "rooks-team",
+      "url": "https://www.rooks.team/",
+      "hero": "shots/2026-11-13-0621/rooks-team-hero.jpg",
+      "full": "shots/2026-11-13-0621/rooks-team-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "sommersethdesign-no",
+      "url": "https://sommersethdesign.no/",
+      "hero": "shots/2026-11-13-0621/sommersethdesign-no-hero.jpg",
+      "full": "shots/2026-11-13-0621/sommersethdesign-no-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "shed-design",
+      "url": "https://shed.design",
+      "hero": "shots/2026-11-13-0621/shed-design-hero.jpg",
+      "full": "shots/2026-11-13-0621/shed-design-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ottoobjects-com",
+      "url": "https://ottoobjects.com/",
+      "hero": "shots/2026-11-13-0621/ottoobjects-com-hero.jpg",
+      "full": "shots/2026-11-13-0621/ottoobjects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
