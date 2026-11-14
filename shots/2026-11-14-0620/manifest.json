@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-14-0620",
+  "items": [
+    {
+      "id": "hedrickbrothers-com",
+      "url": "https://hedrickbrothers.com/",
+      "hero": "shots/2026-11-14-0620/hedrickbrothers-com-hero.jpg",
+      "full": "shots/2026-11-14-0620/hedrickbrothers-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "nbwla-com",
+      "url": "https://www.nbwla.com/",
+      "hero": "shots/2026-11-14-0620/nbwla-com-hero.jpg",
+      "full": "shots/2026-11-14-0620/nbwla-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "arkitektkontoretvest-no",
+      "url": "https://arkitektkontoretvest.no/",
+      "hero": "shots/2026-11-14-0620/arkitektkontoretvest-no-hero.jpg",
+      "full": "shots/2026-11-14-0620/arkitektkontoretvest-no-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "techne-com-au",
+      "url": "https://techne.com.au/",
+      "hero": "shots/2026-11-14-0620/techne-com-au-hero.jpg",
+      "full": "shots/2026-11-14-0620/techne-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "future-human-de",
+      "url": "https://www.future-human.de/",
+      "hero": "shots/2026-11-14-0620/future-human-de-hero.jpg",
+      "full": "shots/2026-11-14-0620/future-human-de-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "artemiilebedev-com",
+      "url": "https://artemiilebedev.com/",
+      "hero": "shots/2026-11-14-0620/artemiilebedev-com-hero.jpg",
+      "full": "shots/2026-11-14-0620/artemiilebedev-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "giordanobetti-com",
+      "url": "https://giordanobetti.com/",
+      "hero": "shots/2026-11-14-0620/giordanobetti-com-hero.jpg",
+      "full": "shots/2026-11-14-0620/giordanobetti-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "kzero-com",
+      "url": "https://kzero.com/",
+      "hero": "shots/2026-11-14-0620/kzero-com-hero.jpg",
+      "full": "shots/2026-11-14-0620/kzero-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
