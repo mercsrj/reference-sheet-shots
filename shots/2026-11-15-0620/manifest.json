@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-15-0620",
+  "items": [
+    {
+      "id": "dkorinteriors-com",
+      "url": "https://dkorinteriors.com",
+      "hero": "shots/2026-11-15-0620/dkorinteriors-com-hero.jpg",
+      "full": "shots/2026-11-15-0620/dkorinteriors-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "fernandowongold-com",
+      "url": "https://www.fernandowongold.com/",
+      "hero": "shots/2026-11-15-0620/fernandowongold-com-hero.jpg",
+      "full": "shots/2026-11-15-0620/fernandowongold-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "walkerwarner-com",
+      "url": "https://www.walkerwarner.com/",
+      "hero": "shots/2026-11-15-0620/walkerwarner-com-hero.jpg",
+      "full": "shots/2026-11-15-0620/walkerwarner-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "batesmasi-com",
+      "url": "https://www.batesmasi.com/",
+      "hero": "shots/2026-11-15-0620/batesmasi-com-hero.jpg",
+      "full": "shots/2026-11-15-0620/batesmasi-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "madegood-space",
+      "url": "https://madegood.space/",
+      "hero": "shots/2026-11-15-0620/madegood-space-hero.jpg",
+      "full": "shots/2026-11-15-0620/madegood-space-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "nelty-co",
+      "url": "https://nelty.co/en",
+      "hero": "shots/2026-11-15-0620/nelty-co-hero.jpg",
+      "full": "shots/2026-11-15-0620/nelty-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "atera-spa",
+      "url": "https://atera.spa/",
+      "hero": "shots/2026-11-15-0620/atera-spa-hero.jpg",
+      "full": "shots/2026-11-15-0620/atera-spa-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "officebenganz-com",
+      "url": "https://officebenganz.com/",
+      "hero": "shots/2026-11-15-0620/officebenganz-com-hero.jpg",
+      "full": "shots/2026-11-15-0620/officebenganz-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
