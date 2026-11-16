@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-16-0621",
+  "items": [
+    {
+      "id": "ervinarchitecture-com",
+      "url": "https://ervinarchitecture.com/",
+      "hero": "shots/2026-11-16-0621/ervinarchitecture-com-hero.jpg",
+      "full": "shots/2026-11-16-0621/ervinarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mvrdv-com",
+      "url": "https://www.mvrdv.com/",
+      "hero": "shots/2026-11-16-0621/mvrdv-com-hero.jpg",
+      "full": "shots/2026-11-16-0621/mvrdv-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "heatherwick-com",
+      "url": "https://www.heatherwick.com/",
+      "hero": "shots/2026-11-16-0621/heatherwick-com-hero.jpg",
+      "full": null,
+      "ok": false,
+      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n",
+      "heroBlank": false
+    },
+    {
+      "id": "sorra-jp",
+      "url": "https://sorra.jp/",
+      "hero": "shots/2026-11-16-0621/sorra-jp-hero.jpg",
+      "full": "shots/2026-11-16-0621/sorra-jp-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "monopo-nyc",
+      "url": "https://monopo.nyc/",
+      "hero": "shots/2026-11-16-0621/monopo-nyc-hero.jpg",
+      "full": "shots/2026-11-16-0621/monopo-nyc-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": false
+    },
+    {
+      "id": "maisonintegre-com",
+      "url": "https://maisonintegre.com/",
+      "hero": "shots/2026-11-16-0621/maisonintegre-com-hero.jpg",
+      "full": "shots/2026-11-16-0621/maisonintegre-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "charles-fr",
+      "url": "https://www.charles.fr/",
+      "hero": "shots/2026-11-16-0621/charles-fr-hero.jpg",
+      "full": "shots/2026-11-16-0621/charles-fr-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "haikoo-org",
+      "url": "https://www.haikoo.org/",
+      "hero": "shots/2026-11-16-0621/haikoo-org-hero.jpg",
+      "full": "shots/2026-11-16-0621/haikoo-org-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
