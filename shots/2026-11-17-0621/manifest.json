@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-17-0621",
+  "items": [
+    {
+      "id": "stofftcooneyarchitecture-com",
+      "url": "https://stofftcooneyarchitecture.com/",
+      "hero": "shots/2026-11-17-0621/stofftcooneyarchitecture-com-hero.jpg",
+      "full": "shots/2026-11-17-0621/stofftcooneyarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "franclarchitecture-com",
+      "url": "https://franclarchitecture.com/",
+      "hero": "shots/2026-11-17-0621/franclarchitecture-com-hero.jpg",
+      "full": "shots/2026-11-17-0621/franclarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ruinelli-associati-ch",
+      "url": "https://ruinelli-associati.ch",
+      "hero": "shots/2026-11-17-0621/ruinelli-associati-ch-hero.jpg",
+      "full": "shots/2026-11-17-0621/ruinelli-associati-ch-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "coaika-co",
+      "url": "https://www.coaika.co/",
+      "hero": "shots/2026-11-17-0621/coaika-co-hero.jpg",
+      "full": "shots/2026-11-17-0621/coaika-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "casamomo-at",
+      "url": "https://www.casamomo.at/",
+      "hero": "shots/2026-11-17-0621/casamomo-at-hero.jpg",
+      "full": "shots/2026-11-17-0621/casamomo-at-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "madebyhusk-com",
+      "url": "http://www.madebyhusk.com/",
+      "hero": "shots/2026-11-17-0621/madebyhusk-com-hero.jpg",
+      "full": "shots/2026-11-17-0621/madebyhusk-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ledboise-com",
+      "url": "https://ledboise.com/",
+      "hero": "shots/2026-11-17-0621/ledboise-com-hero.jpg",
+      "full": "shots/2026-11-17-0621/ledboise-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "thesustainablecity-com",
+      "url": "https://thesustainablecity.com/",
+      "hero": "shots/2026-11-17-0621/thesustainablecity-com-hero.jpg",
+      "full": "shots/2026-11-17-0621/thesustainablecity-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
