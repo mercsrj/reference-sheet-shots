@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-17-0631",
+  "items": [
+    {
+      "id": "plainenglishdesign-co-uk",
+      "url": "https://www.plainenglishdesign.co.uk/",
+      "hero": "shots/2026-11-17-0631/plainenglishdesign-co-uk-hero.jpg",
+      "full": "shots/2026-11-17-0631/plainenglishdesign-co-uk-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "devolkitchens-com",
+      "url": "https://www.devolkitchens.com/",
+      "hero": "shots/2026-11-17-0631/devolkitchens-com-hero.jpg",
+      "full": "shots/2026-11-17-0631/devolkitchens-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "urbanvillageproject-com",
+      "url": "https://www.urbanvillageproject.com/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.urbanvillageproject.com/\nCall log:\n  - navigating to \"https://www.urbanvillageproject.com/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "dittoresidential-com",
+      "url": "https://www.dittoresidential.com/",
+      "hero": "shots/2026-11-17-0631/dittoresidential-com-hero.jpg",
+      "full": "shots/2026-11-17-0631/dittoresidential-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
