@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-18-0621",
+  "items": [
+    {
+      "id": "bakerbarrios-com",
+      "url": "https://www.bakerbarrios.com/",
+      "hero": "shots/2026-11-18-0621/bakerbarrios-com-hero.jpg",
+      "full": "shots/2026-11-18-0621/bakerbarrios-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "beasleyandhenley-com",
+      "url": "https://www.beasleyandhenley.com/",
+      "hero": "shots/2026-11-18-0621/beasleyandhenley-com-hero.jpg",
+      "full": "shots/2026-11-18-0621/beasleyandhenley-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "groupeshapiro-com",
+      "url": "https://www.groupeshapiro.com",
+      "hero": "shots/2026-11-18-0621/groupeshapiro-com-hero.jpg",
+      "full": "shots/2026-11-18-0621/groupeshapiro-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "maximalestudio-com",
+      "url": "https://www.maximalestudio.com/",
+      "hero": "shots/2026-11-18-0621/maximalestudio-com-hero.jpg",
+      "full": "shots/2026-11-18-0621/maximalestudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "riotters-com",
+      "url": "https://riotters.com/",
+      "hero": "shots/2026-11-18-0621/riotters-com-hero.jpg",
+      "full": "shots/2026-11-18-0621/riotters-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hnp-se",
+      "url": "https://hnp.se/",
+      "hero": "shots/2026-11-18-0621/hnp-se-hero.jpg",
+      "full": "shots/2026-11-18-0621/hnp-se-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "introck-studio",
+      "url": "https://introck.studio",
+      "hero": "shots/2026-11-18-0621/introck-studio-hero.jpg",
+      "full": "shots/2026-11-18-0621/introck-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "martinfoucaut-com",
+      "url": "https://www.martinfoucaut.com/",
+      "hero": "shots/2026-11-18-0621/martinfoucaut-com-hero.jpg",
+      "full": "shots/2026-11-18-0621/martinfoucaut-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
