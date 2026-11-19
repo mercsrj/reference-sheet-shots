@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-19-0621",
+  "items": [
+    {
+      "id": "alysbeach-com",
+      "url": "https://alysbeach.com/",
+      "hero": "shots/2026-11-19-0621/alysbeach-com-hero.jpg",
+      "full": "shots/2026-11-19-0621/alysbeach-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "andrewgc-com",
+      "url": "https://andrewgc.com/",
+      "hero": "shots/2026-11-19-0621/andrewgc-com-hero.jpg",
+      "full": "shots/2026-11-19-0621/andrewgc-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "studiogang-com",
+      "url": "https://studiogang.com/",
+      "hero": "shots/2026-11-19-0621/studiogang-com-hero.jpg",
+      "full": "shots/2026-11-19-0621/studiogang-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "sub-global",
+      "url": "https://sub.global/",
+      "hero": "shots/2026-11-19-0621/sub-global-hero.jpg",
+      "full": "shots/2026-11-19-0621/sub-global-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    },
+    {
+      "id": "olyablack-com",
+      "url": "https://www.olyablack.com",
+      "hero": "shots/2026-11-19-0621/olyablack-com-hero.jpg",
+      "full": "shots/2026-11-19-0621/olyablack-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "sydopia-com",
+      "url": "https://sydopia.com/",
+      "hero": "shots/2026-11-19-0621/sydopia-com-hero.jpg",
+      "full": "shots/2026-11-19-0621/sydopia-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "austen-fun",
+      "url": "https://austen.fun/",
+      "hero": "shots/2026-11-19-0621/austen-fun-hero.jpg",
+      "full": "shots/2026-11-19-0621/austen-fun-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "programa-design",
+      "url": "https://programa.design/",
+      "hero": "shots/2026-11-19-0621/programa-design-hero.jpg",
+      "full": "shots/2026-11-19-0621/programa-design-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
