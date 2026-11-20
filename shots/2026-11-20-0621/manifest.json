@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-20-0621",
+  "items": [
+    {
+      "id": "mersi-architecture-com",
+      "url": "https://mersi-architecture.com/",
+      "hero": "shots/2026-11-20-0621/mersi-architecture-com-hero.jpg",
+      "full": "shots/2026-11-20-0621/mersi-architecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "bcj-com",
+      "url": "https://www.bcj.com/",
+      "hero": "shots/2026-11-20-0621/bcj-com-hero.jpg",
+      "full": "shots/2026-11-20-0621/bcj-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "alvarezhomes-com",
+      "url": "https://www.alvarezhomes.com/",
+      "hero": "shots/2026-11-20-0621/alvarezhomes-com-hero.jpg",
+      "full": "shots/2026-11-20-0621/alvarezhomes-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "christianwassmann-com",
+      "url": "https://www.christianwassmann.com/",
+      "hero": "shots/2026-11-20-0621/christianwassmann-com-hero.jpg",
+      "full": "shots/2026-11-20-0621/christianwassmann-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "stripe-press",
+      "url": "https://stripe.press/",
+      "hero": "shots/2026-11-20-0621/stripe-press-hero.jpg",
+      "full": "shots/2026-11-20-0621/stripe-press-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "garcy-studio",
+      "url": "https://www.garcy.studio/",
+      "hero": "shots/2026-11-20-0621/garcy-studio-hero.jpg",
+      "full": "shots/2026-11-20-0621/garcy-studio-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "lesintranquilles-com",
+      "url": "https://www.lesintranquilles.com/",
+      "hero": "shots/2026-11-20-0621/lesintranquilles-com-hero.jpg",
+      "full": "shots/2026-11-20-0621/lesintranquilles-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "luckypunch-hamburg",
+      "url": "https://www.luckypunch.hamburg/",
+      "hero": "shots/2026-11-20-0621/luckypunch-hamburg-hero.jpg",
+      "full": "shots/2026-11-20-0621/luckypunch-hamburg-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
