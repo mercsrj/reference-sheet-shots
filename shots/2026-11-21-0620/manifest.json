@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-21-0620",
+  "items": [
+    {
+      "id": "hollanddesign-ca",
+      "url": "https://www.hollanddesign.ca/",
+      "hero": "shots/2026-11-21-0620/hollanddesign-ca-hero.jpg",
+      "full": "shots/2026-11-21-0620/hollanddesign-ca-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "edsaplan-com",
+      "url": "https://www.edsaplan.com/",
+      "hero": "shots/2026-11-21-0620/edsaplan-com-hero.jpg",
+      "full": "shots/2026-11-21-0620/edsaplan-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "diwersyweimar-eu",
+      "url": "https://diwersyweimar.eu/",
+      "hero": "shots/2026-11-21-0620/diwersyweimar-eu-hero.jpg",
+      "full": "shots/2026-11-21-0620/diwersyweimar-eu-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hollubgroup-com",
+      "url": "https://hollubgroup.com/",
+      "hero": "shots/2026-11-21-0620/hollubgroup-com-hero.jpg",
+      "full": "shots/2026-11-21-0620/hollubgroup-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ch-projects-com",
+      "url": "https://ch-projects.com",
+      "hero": "shots/2026-11-21-0620/ch-projects-com-hero.jpg",
+      "full": "shots/2026-11-21-0620/ch-projects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "workshophospitality-com",
+      "url": "https://www.workshophospitality.com/",
+      "hero": "shots/2026-11-21-0620/workshophospitality-com-hero.jpg",
+      "full": "shots/2026-11-21-0620/workshophospitality-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "fratellisimonetti-com",
+      "url": "https://www.fratellisimonetti.com",
+      "hero": "shots/2026-11-21-0620/fratellisimonetti-com-hero.jpg",
+      "full": "shots/2026-11-21-0620/fratellisimonetti-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "merit-la-com",
+      "url": "https://merit-la.com/",
+      "hero": "shots/2026-11-21-0620/merit-la-com-hero.jpg",
+      "full": "shots/2026-11-21-0620/merit-la-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
