@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-22-0632",
+  "items": [
+    {
+      "id": "studioshamshiri-com",
+      "url": "https://www.studioshamshiri.com/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.studioshamshiri.com/\nCall log:\n  - navigating to \"https://www.studioshamshiri.com/\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
+}
