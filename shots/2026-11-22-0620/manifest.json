@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-22-0620",
+  "items": [
+    {
+      "id": "cronkduch-com",
+      "url": "https://www.cronkduch.com/",
+      "hero": "shots/2026-11-22-0620/cronkduch-com-hero.jpg",
+      "full": "shots/2026-11-22-0620/cronkduch-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "woolems-com",
+      "url": "https://www.woolems.com/",
+      "hero": "shots/2026-11-22-0620/woolems-com-hero.jpg",
+      "full": "shots/2026-11-22-0620/woolems-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "focalglow-co",
+      "url": "https://focalglow.co/",
+      "hero": "shots/2026-11-22-0620/focalglow-co-hero.jpg",
+      "full": "shots/2026-11-22-0620/focalglow-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "in-puls-com",
+      "url": "https://www.in-puls.com/en",
+      "hero": "shots/2026-11-22-0620/in-puls-com-hero.jpg",
+      "full": "shots/2026-11-22-0620/in-puls-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "duchateau-com",
+      "url": "https://www.duchateau.com/",
+      "hero": "shots/2026-11-22-0620/duchateau-com-hero.jpg",
+      "full": "shots/2026-11-22-0620/duchateau-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "marasrl-it",
+      "url": "https://marasrl.it/en/",
+      "hero": "shots/2026-11-22-0620/marasrl-it-hero.jpg",
+      "full": "shots/2026-11-22-0620/marasrl-it-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "demarinisgroup-com",
+      "url": "https://www.demarinisgroup.com/en/",
+      "hero": "shots/2026-11-22-0620/demarinisgroup-com-hero.jpg",
+      "full": "shots/2026-11-22-0620/demarinisgroup-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "stephanie-thatenhorst-com",
+      "url": "https://www.stephanie-thatenhorst.com/",
+      "hero": "shots/2026-11-22-0620/stephanie-thatenhorst-com-hero.jpg",
+      "full": "shots/2026-11-22-0620/stephanie-thatenhorst-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
