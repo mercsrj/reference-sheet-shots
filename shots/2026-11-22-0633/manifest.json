@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-22-0633",
+  "items": [
+    {
+      "id": "danfinkstudio-com",
+      "url": "https://www.danfinkstudio.com/",
+      "hero": "shots/2026-11-22-0633/danfinkstudio-com-hero.jpg",
+      "full": "shots/2026-11-22-0633/danfinkstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
