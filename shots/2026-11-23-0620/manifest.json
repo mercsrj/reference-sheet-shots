@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-23-0620",
+  "items": [
+    {
+      "id": "selldorf-com",
+      "url": "https://www.selldorf.com/",
+      "hero": "shots/2026-11-23-0620/selldorf-com-hero.jpg",
+      "full": "shots/2026-11-23-0620/selldorf-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "fairfaxandsammons-com",
+      "url": "https://www.fairfaxandsammons.com/",
+      "hero": "shots/2026-11-23-0620/fairfaxandsammons-com-hero.jpg",
+      "full": "shots/2026-11-23-0620/fairfaxandsammons-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "gulfbuilding-com",
+      "url": "https://www.gulfbuilding.com/",
+      "hero": "shots/2026-11-23-0620/gulfbuilding-com-hero.jpg",
+      "full": "shots/2026-11-23-0620/gulfbuilding-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "big-dk",
+      "url": "https://big.dk/",
+      "hero": "shots/2026-11-23-0620/big-dk-hero.jpg",
+      "full": "shots/2026-11-23-0620/big-dk-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "jbenergies-com",
+      "url": "https://jbenergies.com/",
+      "hero": "shots/2026-11-23-0620/jbenergies-com-hero.jpg",
+      "full": "shots/2026-11-23-0620/jbenergies-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "thefold-news",
+      "url": "https://thefold.news",
+      "hero": "shots/2026-11-23-0620/thefold-news-hero.jpg",
+      "full": "shots/2026-11-23-0620/thefold-news-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "fidoa-nl",
+      "url": "https://fidoa.nl/",
+      "hero": "shots/2026-11-23-0620/fidoa-nl-hero.jpg",
+      "full": "shots/2026-11-23-0620/fidoa-nl-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hus-it",
+      "url": "https://hus.it/",
+      "hero": "shots/2026-11-23-0620/hus-it-hero.jpg",
+      "full": "shots/2026-11-23-0620/hus-it-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
