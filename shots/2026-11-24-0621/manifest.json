@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-24-0621",
+  "items": [
+    {
+      "id": "feldmanarchitecture-com",
+      "url": "https://www.feldmanarchitecture.com/",
+      "hero": "shots/2026-11-24-0621/feldmanarchitecture-com-hero.jpg",
+      "full": "shots/2026-11-24-0621/feldmanarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hammerandhand-com",
+      "url": "https://hammerandhand.com/",
+      "hero": "shots/2026-11-24-0621/hammerandhand-com-hero.jpg",
+      "full": "shots/2026-11-24-0621/hammerandhand-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mhkarchitecture-com",
+      "url": "https://www.mhkarchitecture.com/",
+      "hero": "shots/2026-11-24-0621/mhkarchitecture-com-hero.jpg",
+      "full": "shots/2026-11-24-0621/mhkarchitecture-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "mosscm-com",
+      "url": "https://www.mosscm.com/",
+      "hero": "shots/2026-11-24-0621/mosscm-com-hero.jpg",
+      "full": "shots/2026-11-24-0621/mosscm-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "novapharm-com-au",
+      "url": "https://novapharm.com.au/",
+      "hero": "shots/2026-11-24-0621/novapharm-com-au-hero.jpg",
+      "full": "shots/2026-11-24-0621/novapharm-com-au-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "theprintbar-gr",
+      "url": "https://theprintbar.gr/en/",
+      "hero": "shots/2026-11-24-0621/theprintbar-gr-hero.jpg",
+      "full": "shots/2026-11-24-0621/theprintbar-gr-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "patriciafaure-com",
+      "url": "https://patriciafaure.com/",
+      "hero": "shots/2026-11-24-0621/patriciafaure-com-hero.jpg",
+      "full": "shots/2026-11-24-0621/patriciafaure-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "tilytea-com",
+      "url": "https://www.tilytea.com",
+      "hero": "shots/2026-11-24-0621/tilytea-com-hero.jpg",
+      "full": "shots/2026-11-24-0621/tilytea-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
