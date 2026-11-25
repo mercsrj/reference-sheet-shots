@@ -1,0 +1,37 @@
+{
+ "date": "2026-11-25-0621",
+ "items": [
+  {
+   "id": "haskell-com",
+   "url": "https://www.haskell.com/"
+  },
+  {
+   "id": "aidlindarlingdesign-com",
+   "url": "https://aidlindarlingdesign.com/"
+  },
+  {
+   "id": "faulknerarchitects-com",
+   "url": "https://faulknerarchitects.com/"
+  },
+  {
+   "id": "zaha-hadid-com",
+   "url": "https://www.zaha-hadid.com/"
+  },
+  {
+   "id": "qinsaba-com",
+   "url": "https://www.qinsaba.com"
+  },
+  {
+   "id": "polcode-com",
+   "url": "https://polcode.com/"
+  },
+  {
+   "id": "ethiack-com",
+   "url": "https://ethiack.com/"
+  },
+  {
+   "id": "tinsly-co",
+   "url": "http://tinsly.co"
+  }
+ ]
+}
