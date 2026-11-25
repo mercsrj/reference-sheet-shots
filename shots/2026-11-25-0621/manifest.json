@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-25-0621",
+  "items": [
+    {
+      "id": "haskell-com",
+      "url": "https://www.haskell.com/",
+      "hero": "shots/2026-11-25-0621/haskell-com-hero.jpg",
+      "full": "shots/2026-11-25-0621/haskell-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "aidlindarlingdesign-com",
+      "url": "https://aidlindarlingdesign.com/",
+      "hero": "shots/2026-11-25-0621/aidlindarlingdesign-com-hero.jpg",
+      "full": "shots/2026-11-25-0621/aidlindarlingdesign-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "faulknerarchitects-com",
+      "url": "https://faulknerarchitects.com/",
+      "hero": "shots/2026-11-25-0621/faulknerarchitects-com-hero.jpg",
+      "full": "shots/2026-11-25-0621/faulknerarchitects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "zaha-hadid-com",
+      "url": "https://www.zaha-hadid.com/",
+      "hero": "shots/2026-11-25-0621/zaha-hadid-com-hero.jpg",
+      "full": "shots/2026-11-25-0621/zaha-hadid-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "qinsaba-com",
+      "url": "https://www.qinsaba.com",
+      "hero": "shots/2026-11-25-0621/qinsaba-com-hero.jpg",
+      "full": "shots/2026-11-25-0621/qinsaba-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "polcode-com",
+      "url": "https://polcode.com/",
+      "hero": "shots/2026-11-25-0621/polcode-com-hero.jpg",
+      "full": "shots/2026-11-25-0621/polcode-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ethiack-com",
+      "url": "https://ethiack.com/",
+      "hero": "shots/2026-11-25-0621/ethiack-com-hero.jpg",
+      "full": "shots/2026-11-25-0621/ethiack-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "tinsly-co",
+      "url": "http://tinsly.co",
+      "hero": "shots/2026-11-25-0621/tinsly-co-hero.jpg",
+      "full": "shots/2026-11-25-0621/tinsly-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
