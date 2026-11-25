@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-25-0626",
+  "items": [
+    {
+      "id": "henninglarsen-com",
+      "url": "https://henninglarsen.com/",
+      "hero": "shots/2026-11-25-0626/henninglarsen-com-hero.jpg",
+      "full": "shots/2026-11-25-0626/henninglarsen-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
