@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-26-0628",
+  "items": [
+    {
+      "id": "buildllc-com",
+      "url": "https://buildllc.com/",
+      "hero": "shots/2026-11-26-0628/buildllc-com-hero.jpg",
+      "full": "shots/2026-11-26-0628/buildllc-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
