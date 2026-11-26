@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-26-0621",
+  "items": [
+    {
+      "id": "glavovicstudio-com",
+      "url": "https://glavovicstudio.com/",
+      "hero": "shots/2026-11-26-0621/glavovicstudio-com-hero.jpg",
+      "full": "shots/2026-11-26-0621/glavovicstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "suffolk-com",
+      "url": "https://www.suffolk.com/",
+      "hero": "shots/2026-11-26-0621/suffolk-com-hero.jpg",
+      "full": "shots/2026-11-26-0621/suffolk-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "hufft-com",
+      "url": "https://hufft.com/",
+      "hero": "shots/2026-11-26-0621/hufft-com-hero.jpg",
+      "full": "shots/2026-11-26-0621/hufft-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "johnsenschmaling-com",
+      "url": "https://www.johnsenschmaling.com/",
+      "hero": "shots/2026-11-26-0621/johnsenschmaling-com-hero.jpg",
+      "full": "shots/2026-11-26-0621/johnsenschmaling-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "orchestrated-nl",
+      "url": "https://orchestrated.nl/",
+      "hero": "shots/2026-11-26-0621/orchestrated-nl-hero.jpg",
+      "full": "shots/2026-11-26-0621/orchestrated-nl-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "albersfoundation-org",
+      "url": "https://www.albersfoundation.org/",
+      "hero": "shots/2026-11-26-0621/albersfoundation-org-hero.jpg",
+      "full": "shots/2026-11-26-0621/albersfoundation-org-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "visualisation-one",
+      "url": "https://visualisation.one",
+      "hero": "shots/2026-11-26-0621/visualisation-one-hero.jpg",
+      "full": "shots/2026-11-26-0621/visualisation-one-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "kocoro-co",
+      "url": "https://kocoro.co",
+      "hero": "shots/2026-11-26-0621/kocoro-co-hero.jpg",
+      "full": "shots/2026-11-26-0621/kocoro-co-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
