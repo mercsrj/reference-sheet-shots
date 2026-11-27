@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-27-0627",
+  "items": [
+    {
+      "id": "walterpmoore-com",
+      "url": "https://www.walterpmoore.com/",
+      "hero": "shots/2026-11-27-0627/walterpmoore-com-hero.jpg",
+      "full": "shots/2026-11-27-0627/walterpmoore-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "fougeron-com",
+      "url": "https://www.fougeron.com/",
+      "hero": "shots/2026-11-27-0627/fougeron-com-hero.jpg",
+      "full": "shots/2026-11-27-0627/fougeron-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "abcdinamo-com",
+      "url": "https://abcdinamo.com/",
+      "hero": "shots/2026-11-27-0627/abcdinamo-com-hero.jpg",
+      "full": "shots/2026-11-27-0627/abcdinamo-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "burohappold-com",
+      "url": "https://www.burohappold.com/",
+      "hero": null,
+      "full": null,
+      "ok": false,
+      "error": "page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.burohappold.com/\nCall log:\n  - navigating to \"https://www.burohappold.com/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "id": "jensen-architects-com",
+      "url": "https://jensen-architects.com/",
+      "hero": "shots/2026-11-27-0627/jensen-architects-com-hero.jpg",
+      "full": "shots/2026-11-27-0627/jensen-architects-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "grillitype-com",
+      "url": "https://www.grillitype.com/",
+      "hero": "shots/2026-11-27-0627/grillitype-com-hero.jpg",
+      "full": "shots/2026-11-27-0627/grillitype-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
