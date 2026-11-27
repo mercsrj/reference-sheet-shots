@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-27-0621",
+  "items": [
+    {
+      "id": "caskconstruction-com",
+      "url": "https://www.caskconstruction.com/",
+      "hero": "shots/2026-11-27-0621/caskconstruction-com-hero.jpg",
+      "full": "shots/2026-11-27-0621/caskconstruction-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "thorntontomasetti-com",
+      "url": "https://www.thorntontomasetti.com/",
+      "hero": "shots/2026-11-27-0621/thorntontomasetti-com-hero.jpg",
+      "full": "shots/2026-11-27-0621/thorntontomasetti-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "morkulnes-com",
+      "url": "https://www.morkulnes.com/",
+      "hero": "shots/2026-11-27-0621/morkulnes-com-hero.jpg",
+      "full": "shots/2026-11-27-0621/morkulnes-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroRetries": 3,
+      "heroBlank": true
+    },
+    {
+      "id": "webberstudio-com",
+      "url": "https://www.webberstudio.com/",
+      "hero": "shots/2026-11-27-0621/webberstudio-com-hero.jpg",
+      "full": "shots/2026-11-27-0621/webberstudio-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "portorocha-com",
+      "url": "https://portorocha.com/",
+      "hero": "shots/2026-11-27-0621/portorocha-com-hero.jpg",
+      "full": "shots/2026-11-27-0621/portorocha-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "studiofeixen-ch",
+      "url": "https://studiofeixen.ch/",
+      "hero": "shots/2026-11-27-0621/studiofeixen-ch-hero.jpg",
+      "full": "shots/2026-11-27-0621/studiofeixen-ch-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "dbit-one",
+      "url": "https://dbit.one/en",
+      "hero": "shots/2026-11-27-0621/dbit-one-hero.jpg",
+      "full": "shots/2026-11-27-0621/dbit-one-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "basedesign-com",
+      "url": "https://www.basedesign.com/",
+      "hero": "shots/2026-11-27-0621/basedesign-com-hero.jpg",
+      "full": "shots/2026-11-27-0621/basedesign-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
