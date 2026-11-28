@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-28-0621",
+  "items": [
+    {
+      "id": "savinomiller-com",
+      "url": "https://www.savinomiller.com/",
+      "hero": "shots/2026-11-28-0621/savinomiller-com-hero.jpg",
+      "full": "shots/2026-11-28-0621/savinomiller-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "brasfieldgorrie-com",
+      "url": "https://www.brasfieldgorrie.com/",
+      "hero": "shots/2026-11-28-0621/brasfieldgorrie-com-hero.jpg",
+      "full": "shots/2026-11-28-0621/brasfieldgorrie-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "ramsa-com",
+      "url": "https://www.ramsa.com/",
+      "hero": "shots/2026-11-28-0621/ramsa-com-hero.jpg",
+      "full": "shots/2026-11-28-0621/ramsa-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "pfeffertorode-com",
+      "url": "https://www.pfeffertorode.com/",
+      "hero": "shots/2026-11-28-0621/pfeffertorode-com-hero.jpg",
+      "full": "shots/2026-11-28-0621/pfeffertorode-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "starforge-energy",
+      "url": "https://www.starforge.energy/",
+      "hero": "shots/2026-11-28-0621/starforge-energy-hero.jpg",
+      "full": "shots/2026-11-28-0621/starforge-energy-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "miodaikanyama-com",
+      "url": "https://miodaikanyama.com/",
+      "hero": "shots/2026-11-28-0621/miodaikanyama-com-hero.jpg",
+      "full": "shots/2026-11-28-0621/miodaikanyama-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "collective-edinburgh-art",
+      "url": "https://www.collective-edinburgh.art/",
+      "hero": "shots/2026-11-28-0621/collective-edinburgh-art-hero.jpg",
+      "full": "shots/2026-11-28-0621/collective-edinburgh-art-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    },
+    {
+      "id": "berryreader-com",
+      "url": "https://berryreader.com/",
+      "hero": "shots/2026-11-28-0621/berryreader-com-hero.jpg",
+      "full": "shots/2026-11-28-0621/berryreader-com-full.jpg",
+      "ok": true,
+      "error": null,
+      "heroBlank": false
+    }
+  ]
+}
